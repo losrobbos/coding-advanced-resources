@@ -1,6 +1,11 @@
 # Further Resources for the Programming Journey
 
-# Most important JavaScript basics for Framework Development (e.g. React)
+Please find here some of my recommended resources for continuing your coding journey in JavaScript / TypeScript
+
+## Most important JavaScript basics 
+
+These are the most essential JS concepts in order to start with Framework Development (e.g. React or Express)
+
 - Array Methods: map, filter, find, reduce
 - Spread Operator ( the three Dots: ... )
 - Functions (Arrow Functions, Parameters, Return, Callbacks)
@@ -14,10 +19,58 @@
 - Net Ninja: Modern React Development - Full Playlist: https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
 - Events (e.g. Click): https://www.youtube.com/watch?v=0XSDAup85SA&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=7
 - State & useState hook: https://www.youtube.com/watch?v=4pO-HcG2igk&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=8
-- useEffect hook: 
+- useEffect hook: https://www.youtube.com/watch?v=gv9ugDJ1ynU&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=14
 
+### React mit TypeScript
+
+In Project React is very often used in combination with TypeScript instead of classical JavaScript.
+
+- TypeScript Intro - PlayList: https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PLzAGFfNxKFuZgoZJPAfW_DeA2guNk849V
+
+- React with TypeScript - Playlist: https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
+
+### NextJS
+
+NextJS is a React FRAMEWORK, so it is built upon React, adding some very handy extra features.
+
+Features you get mostly out of the box:
+- Routing (no React-Router-DOM)
+- Server Side Rendering (for Search Engine optimization)
+- API routes (integrated backend functions!)
+
+Learning NextJS:
+
+- Playlist: https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH
+
+
+### Material UI
+
+With Material UI you can get - similar to Bootstrap - UI component including some JavaScript logic - out of the box!
+
+Material UI uses the famous Material Design and was specifically developed for React.
+
+Learning Material UI:
+
+- Playlist: https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
 
 ## Advanced
+
+### Test Driven Development
+
+Concepts introduction:
+- https://www.youtube.com/watch?v=r9HdJ8P6GQI
+
+#### Testing JavaScript vanilla
+
+Testing with Jest - Getting started guide:
+- https://jestjs.io/docs/en/getting-started
+
+#### Testing React
+
+Playlist: 
+https://www.youtube.com/watch?v=7dTTFW7yACQ&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
+
+
 
 ### Algorithms & Data Structure
 
@@ -69,3 +122,5 @@ For a little more interactivity (e.g. Kollisionen with moving items or enemies) 
 
 - Enable 3D: https://enable3d.io/docs.html
   - Enable 3D Examples: https://enable3d.io/examples.html
+
+
