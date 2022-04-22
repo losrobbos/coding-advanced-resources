@@ -21,13 +21,27 @@ These are the most essential JS concepts in order to start with Framework Develo
 - State & useState hook: https://www.youtube.com/watch?v=4pO-HcG2igk&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=8
 - useEffect hook: https://www.youtube.com/watch?v=gv9ugDJ1ynU&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=14
 
-### React mit TypeScript
+### React with TypeScript
 
-In Project React is very often used in combination with TypeScript instead of classical JavaScript.
+In a project React is very often used in combination with TypeScript instead of classical JavaScript.
+
+Without going into all the details, typescript makes your code (much!) more robust by adding so called TYPES to your JavaScript code.
 
 - TypeScript Intro - PlayList: https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PLzAGFfNxKFuZgoZJPAfW_DeA2guNk849V
 
 - React with TypeScript - Playlist: https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
+
+### Material UI
+
+With Material UI you can get - similar to Bootstrap - UI component including some JavaScript logic - out of the box!
+
+Material UI uses the famous Material Design and was specifically developed for React.
+
+Learning Material UI:
+
+- Playlist: https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
+
+## Advanced
 
 ### NextJS
 
@@ -43,26 +57,15 @@ Learning NextJS:
 - Playlist: https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH
 
 
-### Material UI
-
-With Material UI you can get - similar to Bootstrap - UI component including some JavaScript logic - out of the box!
-
-Material UI uses the famous Material Design and was specifically developed for React.
-
-Learning Material UI:
-
-- Playlist: https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
-
-## Advanced
-
 ### Test Driven Development
 
 Concepts introduction:
 - https://www.youtube.com/watch?v=r9HdJ8P6GQI
 
+
 #### Testing JavaScript vanilla
 
-Testing with Jest - Getting started guide:
+Testing with JEST - Getting started guide:
 - https://jestjs.io/docs/en/getting-started
 
 #### Testing React
@@ -72,7 +75,35 @@ https://www.youtube.com/watch?v=7dTTFW7yACQ&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dz
 
 
 
-### Algorithms & Data Structure
+### Algorithms & Data Structures 
+
+In the "real world" you sometimes face problems that not be solved by simply looping over an array or counting up some numbers.
+
+Sometimes we get a bit more complicated structures, e.g. like this object:
+
+```
+  {
+     "name": "Grandparent", children: [
+        { name: "Sally" },
+        { name: "Harry", children: [
+            { name: "Melinda" }, { name: "Harry Jr" } 
+        ]}, 
+     ]
+  }
+
+```
+
+Here we have a Granparent with children, where again each child again can have children and so on.
+
+You can you now get a flat array with the names of ALL members of this family?
+
+Okay. You could use simply nested for loops. But here you have to know, how deep the family tree goes in ADVANCE! In case we got three levels down, we need 3 for loops, but maybe it is 8 levels down and then we need 8 loops!
+
+So how can we write code, that will collect all the members on all levels independent on how many levels we have here....!
+
+If we just know loops and functions, it will not help much.
+
+So we reached a classical "algorithmical challenge". And therefore we need to understand a bit more on datastructures (e.g. the one above is a so called TREE). And how to work with these data structures to search inside them or convert them into something else. For that part we need to know about ALGORITHMS.
 
 - Big Overview / Introduction DataStructures: https://www.youtube.com/watch?v=41GSinwoMYA
 - Common Data Structures (non JS): https://www.youtube.com/watch?v=41GSinwoMYA&t=2479s (same video as before, round about 40 min)
