@@ -45,6 +45,13 @@ Of course, sometimes also our functions PROCESS the data incorrectly, because we
 - React with TypeScript - Playlist: https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
 
 
+### Git Development in a team
+
+A guide with a real life, practical, hands-on process including all Git commands - Setup and enjoy Team Development without worrying all the time about your next Git merge ;)
+
+https://github.com/losrobbos/github-flow-guide/blob/main/GIT_WORKFLOW.github.md
+
+
 ### Code Formatting & Linting
 
 In order to prepare for a TEAM project it is absolutely essential to have at least a basic understanding of the concepts of code formatting & linting,  configure it just ONCE at the beginning of your project... and then forget about it and code happily ;)
