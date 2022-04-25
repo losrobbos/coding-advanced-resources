@@ -70,6 +70,15 @@ Learning NextJS:
 - Playlist: https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH
 
 
+### React Native
+
+With React Native you can build on all your nice, built-up React knowledge... and build smartphone apps.
+
+I got a React Native "Getting started" guide here, which might be helpful as preparation, before you get into the official docs:
+
+https://github.com/losrobbos/react-native-guide
+
+
 ### Test Driven Development
 
 Concepts introduction:
