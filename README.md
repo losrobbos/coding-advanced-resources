@@ -189,7 +189,7 @@ For that part we need to know about <b>ALGORITHMS</b>.
 - Edabit: https://edabit.com/challenges/javascript
 - Hackerrank: https://www.hackerrank.com/
 
-#### Algos & DS Courses & Books
+#### Courses + Books
 
 - Academind: Datastructures  https://pro.academind.com/p/javascript-datastructures-the-fundamentals
 - Academind: Algorithms (JavaScript): https://pro.academind.com/p/javascript-algorithms-the-fundamentals
