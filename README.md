@@ -21,6 +21,17 @@ These are the most essential JS concepts in order to start with Framework Develo
 - State & useState hook: https://www.youtube.com/watch?v=4pO-HcG2igk&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=8
 - useEffect hook: https://www.youtube.com/watch?v=gv9ugDJ1ynU&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=14
 
+### App ideas for training (from simple to more complex)
+
+- Book List (one Page app): https://book-app-rose.vercel.app/
+- Pizza List & Oizza Cart (two Pages): https://pizza-store-two.vercel.app/
+- Mini Blog with Details Page & Comments (2 Pages App): https://blog-fullstack-client.vercel.app/
+- Movies List with signup and login + custom book list (using local storage to store users & books - no backend): https://typescript-movies-demo.vercel.app/
+- Chat App - duplicate browser tab to chat: https://rob-chat-sse.vercel.app/
+- Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
+- Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
+
+
 ### React with TypeScript
 
 In a project React is very often used in combination with TypeScript instead of classical JavaScript.
@@ -181,7 +192,7 @@ Examples:
 
 - Snake: https://eddornelas.github.io/Snake-Game-Demo/
 - Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
-- https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
+- Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
 
 For a little more interactivity (e.g. Kollisionen with moving items or enemies) it makes it a lot easier to use a Game library (often called "engine")
 
