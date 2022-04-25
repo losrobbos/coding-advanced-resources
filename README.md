@@ -46,7 +46,17 @@ Of course, sometimes also our functions PROCESS the data incorrectly, because we
 
 ### Material UI
 
-With Material UI you can get - similar to Bootstrap - UI components out of the box, by simply "copy & paste & adapt". Material UI components also often bring some JavaScript logic out of the box, e.g. for picking a date from a calenader.
+You have a project where you actually do not really care about an "original design"?
+
+The use case is simply "clean & functional"?
+
+Or you simply don't like spending to much time on styling at all?
+
+Then give the "Material UI" package a shot.
+
+With Material UI you can get - similar to Bootstrap - UI components out of the box, by simply "copy & paste & adapt". 
+
+Material UI components also often bring some JavaScript logic out of the box, e.g. for picking a date from a calenader.
 
 The Material UI package uses the famous "Material Design". 
 
