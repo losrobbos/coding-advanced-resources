@@ -107,7 +107,8 @@ And you can USE that piece of code to check - after you have done all your chang
 
 So everybody can be safe to CHANGE their stuff and still make sure, they do not break anything with their change in the system.
 
-That is it. That is the basic use case for testing: ASSURING functionality, even after a lot of changes in the code structure. 
+That is it. That is the basic use case for testing: 
+<b>ASSURING functionality, even after (a lot of) changes in the code structure</b>
 
 
 Testing Concepts - a nice introduction:
