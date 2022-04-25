@@ -1,6 +1,6 @@
 # Further Resources for the Programming Journey
 
-Please find here some of my recommended resources for continuing your coding journey in JavaScript / TypeScript
+Please find here some of my recommended resources for continuing your coding journey in JavaScript / TypeScript by self studying.
 
 ## Most important JavaScript basics 
 
