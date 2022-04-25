@@ -173,7 +173,7 @@ If we just know loops and functions it will not help much.
 
 So we reached a classical "algorithmical challenge". 
 
-And therefore we need to understand a bit more on datastructures. E.g. the one above is a so called TREE. 
+And therefore we need to understand a bit more on <b>DATA STRUCTURES</b>. E.g. the one above is a so called TREE. 
 
 And then we need to know a bit on how to work with these data structures, e.g. to search inside them or convert them into something else. 
 
