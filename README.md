@@ -8,10 +8,11 @@ These are the most essential JS concepts in order to start with Framework Develo
 
 - Array Methods: map, filter, find, reduce
 - Spread Operator ( the three Dots: ... )
+- Destructuring (to extract data from objects & arrays into new variables)
 - Functions (Arrow Functions, Parameters, Return, Callbacks)
 - Event Listener ("click", "change")
 - Event object (=> e.g. event.target to grab a clicked item)
-- Promises
+- Promises (to "call" remote appliations, e.g. an API or a database)
 - Fetch
 
 ## React
@@ -24,11 +25,11 @@ These are the most essential JS concepts in order to start with Framework Develo
 ### App ideas for training (from simple to more complex)
 
 - Book List (one Page app): https://book-app-rose.vercel.app/
-- Pizza List & Pizza Cart (two Pages): https://pizza-store-two.vercel.app/
+- Pizza List with Search & Pizza Cart (2 Pages app): https://pizza-store-two.vercel.app/
 - Mini Blog with Details Page & Comments (2 Pages App): https://blog-fullstack-client.vercel.app/
-- Movies List with signup and login + custom book list (using local storage to store users & books - no backend): https://typescript-movies-demo.vercel.app/
-- Location on a Map - with OpenstreetMap & Leaflet: https://github.com/losrobbos/react-openstreetmap-demo
-- Chat App - duplicate browser tab to chat: https://rob-chat-sse.vercel.app/
+- Location on a Map with OpenstreetMap & Leaflet: https://github.com/losrobbos/react-openstreetmap-demo
+- Movies List with signup and login + custom book list (using local storage to store users & books - no backend): https://typescript-movies-demo.vercel.app/ (multiuser app)
+- Chat App (duplicate the browser tab to chat): https://rob-chat-sse.vercel.app/
 - Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
 - Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
 
