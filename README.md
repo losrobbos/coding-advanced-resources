@@ -129,7 +129,7 @@ https://www.youtube.com/watch?v=7dTTFW7yACQ&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dz
 
 ### Algorithms & Data Structures 
 
-In the "real world" you sometimes face problems that not be solved by simply looping over an array or counting up some numbers.
+In the "real world" you sometimes face problems that could not be solved by looping over an array or counting up some numbers.
 
 Sometimes we get a bit more complicated structures, e.g. like this object:
 
@@ -147,15 +147,25 @@ Sometimes we get a bit more complicated structures, e.g. like this object:
 
 Here we have a Granparent with children, where again each child again can have children and so on.
 
-You can you now get a flat array with the names of ALL members of this family?
+Challenge: How can you now get a FLAT array with the names of ALL members out of this family "structure"?
 
-Okay. You could use simply nested for loops. But here you have to know, how deep the family tree goes in ADVANCE! In case we got three levels down, we need 3 for loops, but maybe it is 8 levels down and then we need 8 loops!
+Okay. You could use simply nested FOR loops to loop through each "level". And add each found item to a new array. That is it. Right?
 
-So how can we write code, that will collect all the members on all levels independent on how many levels we have here....!
+But then you have to know IN ADVANCE, how deep the family tree goes! 
 
-If we just know loops and functions, it will not help much.
+In case we got three levels down, we need 3 for loops. But on another family we might need to go 8 levels down... and then we need 8 (!) nested for loops!
 
-So we reached a classical "algorithmical challenge". And therefore we need to understand a bit more on datastructures (e.g. the one above is a so called TREE). And how to work with these data structures to search inside them or convert them into something else. For that part we need to know about ALGORITHMS.
+So how can we write just ONE piece of code, that will collect all the members on all levels independent on how many levels we have here....!
+
+If we just know loops and functions it will not help much.
+
+So we reached a classical "algorithmical challenge". 
+
+And therefore we need to understand a bit more on datastructures. E.g. the one above is a so called TREE. 
+
+And then we need to know a bit on how to work with these data structures, e.g. to search inside them or convert them into something else. 
+
+For that part we need to know about <b>ALGORITHMS</b>.
 
 - Big Overview / Introduction DataStructures: https://www.youtube.com/watch?v=41GSinwoMYA
 - Common Data Structures (non JS): https://www.youtube.com/watch?v=41GSinwoMYA&t=2479s (same video as before, round about 40 min)
