@@ -27,6 +27,19 @@ In a project React is very often used in combination with TypeScript instead of 
 
 Without getting into all the details, Typescript makes your code (much!) more robust by adding so called TYPES to your JavaScript code.
 
+At the end of the day you can see your application as a big chain of calling functions, passing data around, changing data, returning data, displaying data. That is actually all there is.
+
+So what do you guess is the most common ISSUE in our functions then?
+
+In the IT world there is a common meme called "Shit it - Shit out". Meaning: Incorrect INPUT data will return incorrect OUTPUT data. It is that simple.
+
+TYPES will assure that you call your functions with CORRECT INPUT PARAMETERS throughout your code and also makes sure functions always RETURN the correct, expected OUTPUT DATA format. 
+
+By this simple "hardening" of your functions, probably 80% of issues in your application code can already be eliminated. Sometimes more, sometimes less. But definitely: It will impact the stability of your code massively.
+
+Of course, sometimes also our functions PROCESS the data incorrectly, because we used wrong logic. This is something TypeScript cannot solve. At the end of the day, also SOME debugging fun must be left for us ;)
+
+
 - TypeScript Intro - PlayList: https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PLzAGFfNxKFuZgoZJPAfW_DeA2guNk849V
 
 - React with TypeScript - Playlist: https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
