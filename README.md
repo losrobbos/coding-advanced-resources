@@ -173,6 +173,45 @@ Playlist:
 https://www.youtube.com/watch?v=7dTTFW7yACQ&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
 
 
+### Game Development
+
+For little Games without "enemies" you can try to use VanillaJS / DOM in the Browser or React.
+
+Examples:
+
+- Snake: https://eddornelas.github.io/Snake-Game-Demo/
+- Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
+- https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
+
+For a little more interactivity (e.g. Kollisionen with moving items or enemies) it makes it a lot easier to use a Game library (often called "engine")
+
+
+#### 2D Engines
+
+- Phaser: https://phaser.io/examples
+- Kaboom: https://kaboomjs.com/
+
+Examples:
+
+- Mario Game: https://leongeldsch.github.io/mario/
+
+#### 3D Engines
+
+- BabylonJS: https://doc.babylonjs.com/start
+- Enable 3D: https://enable3d.io/docs.html
+  - Enable 3D Examples: https://enable3d.io/examples.html
+
+Examples BabylonJS:
+- https://www.babylonjs.com/games/
+
+Examples Enable3D (with mouse movement you can change the view):
+- 3D World: https://enable3d.io/examples/medieval-fantasy-book-standalone.html
+- Water Waves Effect: https://enable3d.io/examples/water.html
+- Physics with Ball: https://enable3d.io/examples/slope-angle-and-moving-platform.html
+- Wall Crash: https://enable3d.io/examples/wrecking-ball-with-metal-chain.html
+- Ego Shooter: https://enable3d.io/examples/first-person-shooter.html
+- Mini Jump n'Run Game with Perspective Change (using F Keyboard Key): https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
+
 
 ### Algorithms & Data Structures 
 
@@ -258,23 +297,5 @@ https://www.youtube.com/watch?v=MiqrArNSxSM
 Event Driven Architecture: https://www.youtube.com/watch?v=STKCRSUsyP0 
 - IT Architecture (Book): https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C1UG06LG4U7O&keywords=martin+fowler&qid=1650534047&sprefix=martin+fowler%2Caps%2C93&sr=8-1
 - Refactoring (Book): https://www.amazon.de/Refactoring-Improving-Existing-Addison-wesley-Signature/dp/0134757599/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C1UG06LG4U7O&keywords=martin+fowler&qid=1650534047&sprefix=martin+fowler%2Caps%2C93&sr=8-2
-
-
-### Game Development
-
-For little Games like Snake you can try to use VanillaJS / DOM in the Browser
-
-For a little more interactivity (e.g. Kollisionen with moving items or enemies) it makes it a lot easier to use a Game library (often called "engine")
-
-#### 2D Engines
-
-- Phaser: https://phaser.io/examples
-- Kaboom: https://kaboomjs.com/
-
-#### 3D Engines
-
-- BabylonJS: https://doc.babylonjs.com/start
-- Enable 3D: https://enable3d.io/docs.html
-  - Enable 3D Examples: https://enable3d.io/examples.html
 
 
