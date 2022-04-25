@@ -81,7 +81,27 @@ Learning Material UI:
 
 - Playlist: https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
 
+
 ## Advanced
+
+### File Uploads
+
+In most web applications a user can signup and create a user profile.
+
+If the user is able to generate contents, e.g. blog posts or cmments, usually the AVATAR image of that user will be shown. 
+And the user should have the choice to upload an own image for that avatar.
+
+Or the user wants to submit a recipe on a repices page, uploading an image of the final result of the recipe.
+
+For use cases like this: We need to provide a FILE UPLOAD functionality.
+
+File Uploads allow the user to pick an image from disk and upload it to a backend.
+
+Find here a guide how you can realize a file upload fullstack, using React as the Framework, Express.js as the backend
+and a file cloud provider to store the files in the cloud for free:
+
+https://github.com/losrobbos/file-upload-guide
+
 
 ### NextJS
 
