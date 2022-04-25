@@ -44,6 +44,14 @@ Of course, sometimes also our functions PROCESS the data incorrectly, because we
 
 - React with TypeScript - Playlist: https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
 
+
+### Code Formatting & Linting
+
+In order to prepare for a TEAM project it is absolutely essential to at least have a basic understanding of the concepts of code formatting & linting,  configure it just ONCE at the beginning of your project... and then forget about it and code happily ;)
+
+Mini Guide to get going: https://github.com/losrobbos/code-formatting-and-linting
+
+
 ### Material UI
 
 You have a project where you actually do not really care about an "original design"?
@@ -213,7 +221,7 @@ We must come up with a general plan on HOW we wanna develop the software (= the 
 
 And how we organize and setup the application STRUCTURE to reach user satisfaction (e.g. high availability of our page without downtimes or breaking pages, fast page loads even with more and more users on our page, etc).
 
-And how do we deal with rising complexity as more and more features get added... and added... and added? How do we make sure, our app does not turn into a gigantic ball of mudd with, causing chaos, panic and disorder in our team?
+And how do we deal with rising complexity as more and more features get added... and added... and added? How do we make sure, our app does not turn into a gigantic ball of mudd, causing chaos, panic and disorder in our team?
 
 Some nice resources:
 
