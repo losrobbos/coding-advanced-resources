@@ -48,7 +48,9 @@ Of course, sometimes also our functions PROCESS the data incorrectly, because we
 
 With Material UI you can get - similar to Bootstrap - UI components out of the box, by simply "copy & paste & adapt". Material UI components also often bring some JavaScript logic out of the box, e.g. for picking a date from a calenader.
 
-The Material UI package uses the famous "Material Design". The package was specifically developed for React.
+The Material UI package uses the famous "Material Design". 
+
+The package was specifically developed for React.
 
 Learning Material UI:
 
@@ -97,7 +99,7 @@ So IF we change and re-organize that (the term for this is REFACTORING), we MUST
 
 In order to give you safety for your refactoring, you need some sort of hallmark to check against
 
-You need a .... TEST! 
+You need .... a TEST! 
 
 YES!
 
@@ -145,7 +147,7 @@ Sometimes we get a bit more complicated structures, e.g. like this object:
 
 ```
 
-Here we have a Granparent with children, where again each child again can have children and so on.
+Here we have a Granparent object with children, where again each child can have children. And so on.
 
 Challenge: How can you now get a FLAT array with the names of ALL members out of this family "structure"?
 
