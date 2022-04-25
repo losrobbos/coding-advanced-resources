@@ -25,7 +25,7 @@ These are the most essential JS concepts in order to start with Framework Develo
 
 In a project React is very often used in combination with TypeScript instead of classical JavaScript.
 
-Without going into all the details, typescript makes your code (much!) more robust by adding so called TYPES to your JavaScript code.
+Without getting into all the details, Typescript makes your code (much!) more robust by adding so called TYPES to your JavaScript code.
 
 - TypeScript Intro - PlayList: https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PLzAGFfNxKFuZgoZJPAfW_DeA2guNk849V
 
