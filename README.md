@@ -27,6 +27,7 @@ These are the most essential JS concepts in order to start with Framework Develo
 - Pizza List & Pizza Cart (two Pages): https://pizza-store-two.vercel.app/
 - Mini Blog with Details Page & Comments (2 Pages App): https://blog-fullstack-client.vercel.app/
 - Movies List with signup and login + custom book list (using local storage to store users & books - no backend): https://typescript-movies-demo.vercel.app/
+- Location on a Map - with OpenstreetMap & Leaflet: https://github.com/losrobbos/react-openstreetmap-demo
 - Chat App - duplicate browser tab to chat: https://rob-chat-sse.vercel.app/
 - Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
 - Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
@@ -91,6 +92,23 @@ The package was specifically developed for React.
 Learning Material UI:
 
 - Playlist: https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
+
+
+### Fullstack Guides (Frontend & Backend)
+
+API Connect Guide: https://github.com/losrobbos/api-connect-guide
+
+Databases - Getting started: https://github.com/losrobbos/databases-getting-started
+
+Data Modeling samples: https://github.com/losrobbos/data-modeling-guide
+
+Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
+
+Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
+
+API Prototyping: https://github.com/losrobbos/api-prototyping
+
+Glossary (DCI): https://github.com/losrobbos/glossary
 
 
 ## Advanced
