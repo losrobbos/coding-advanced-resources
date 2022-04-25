@@ -184,12 +184,12 @@ For that part we need to know about <b>ALGORITHMS</b>.
 - Common Data Structures (great playlist): https://www.youtube.com/watch?v=Sk3MxEUSwY4&list=PLpWvGP6yhJUhC1SpdouTObbd5yGgV4opL&index=1
 - Algorithms Step by Step (great playList): https://www.youtube.com/watch?v=LuXCJxY7nPE&list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3&index=3
 
-### Coding Challenges online
+#### Coding Challenges online
 
 - Edabit: https://edabit.com/challenges/javascript
 - Hackerrank: https://www.hackerrank.com/
 
-### Algos & DS Courses & Books
+#### Algos & DS Courses & Books
 
 - Academind: Datastructures  https://pro.academind.com/p/javascript-datastructures-the-fundamentals
 - Academind: Algorithms (JavaScript): https://pro.academind.com/p/javascript-algorithms-the-fundamentals
@@ -197,13 +197,25 @@ For that part we need to know about <b>ALGORITHMS</b>.
 - Book - Algorithmen for Dummies (deutsch) - mit Reallife Bezug und Humor ;): https://www.amazon.de/Algorithmen-Datenstrukturen-Dummies-Andreas-Gogol-D%C3%B6ring/dp/3527714324/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QZM3C9T92QKN&keywords=algorithmen+und+datenstrukturen&qid=1650525285&sprefix=algorithmen+und+datenstrukturen%2Caps%2C87&sr=8-1 
 
 
-### Pure Functional Programming (no OOP)
+#### Pure Functional Programming (no OOP)
 
 - Functional Programmers Toolbox: https://www.youtube.com/watch?v=Nrp_LZ-XGsY
 - Function Composition: https://www.youtube.com/watch?v=rCKPgu4DvcE
 
 
 ### Architecture
+
+For those who wanna step a little bit "outside the box" of just coding a feature or app and look at the broader picture on how to actually setup the FOUNDATION for a web project?
+
+Often it is not just a "tech stack", e.g. React for the Frontend & Java Spring for the Backend + a bunch of developers that will magically get you going.
+
+We must come up with a general plan on HOW we wanna develop the software (= the process).
+
+And how we organize and setup the application STRUCTURE to reach user satisfaction (e.g. high availability of our page without downtimes or breaking pages, fast page loads even with more and more users on our page, etc).
+
+And how do we deal with rising complexity as more and more features get added... and added... and added? How do we make sure, our app does not turn into a gigantic ball of mudd with, causing chaos, panic and disorder in our team?
+
+Some nice resources:
 
 - Domain Driven Design - Von Reallife Problemen zu Code Architektur (Book): https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?keywords=domain+driven+design&qid=1650536079&sprefix=domain+driven%2Caps%2C143&sr=8-1 
 - Server im Web: Proxy vs Reverse Proxy (sehr anschaulich :)):
