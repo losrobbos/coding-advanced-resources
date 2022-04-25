@@ -81,7 +81,36 @@ https://github.com/losrobbos/react-native-guide
 
 ### Test Driven Development
 
-Concepts introduction:
+Let's say you invested dozens of hours into this nice feature.
+
+Your code works "fine" at the end. The feature works in the browser.
+
+But then you realize: DAMN! This code is a bit messy. It works. But probably it needs quite some restructuring and polishing.
+
+All good.
+
+But if we are working in a TEAM PROJECT we could get into a serious problem now.
+
+Our nice feature is important. Work of others DEPENDS on that!
+
+So IF we change and re-organize that (the term for this is REFACTORING), we MUST make sure, that the OUTPUT of that refactoring is the same as before! So all code which depends on my code, will still work as before.
+
+In order to give you safety for your refactoring, you need some sort of hallmark to check against
+
+You need a .... TEST! 
+
+YES!
+
+A TEST simply means, a piece of code to check if your code works like expected.
+
+And you can USE that piece of code to check - after you have done all your changes & cleanings - if the code STILL works exactly as before.
+
+So everybody can be safe to CHANGE their stuff and still make sure, they do not break anything with their change in the system.
+
+That is it. That is the basic use case for testing: ASSURING functionality, even after a lot of changes in the code structure. 
+
+
+Testing Concepts - a nice introduction:
 - https://www.youtube.com/watch?v=r9HdJ8P6GQI
 
 
