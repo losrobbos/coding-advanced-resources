@@ -253,6 +253,7 @@ For a little more interactivity (e.g. Kollisionen with moving items or enemies) 
 
 #### 3D Engines
 
+- BabylonJS: https://doc.babylonjs.com/start
 - Enable 3D: https://enable3d.io/docs.html
   - Enable 3D Examples: https://enable3d.io/examples.html
 
