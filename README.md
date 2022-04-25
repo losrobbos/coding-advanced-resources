@@ -46,9 +46,9 @@ Of course, sometimes also our functions PROCESS the data incorrectly, because we
 
 ### Material UI
 
-With Material UI you can get - similar to Bootstrap - UI component including some JavaScript logic - out of the box!
+With Material UI you can get - similar to Bootstrap - UI components out of the box, by simply "copy & paste & adapt". Material UI components also often bring some JavaScript logic out of the box, e.g. for picking a date from a calenader.
 
-Material UI uses the famous Material Design and was specifically developed for React.
+The Material UI package uses the famous "Material Design". The package was specifically developed for React.
 
 Learning Material UI:
 
