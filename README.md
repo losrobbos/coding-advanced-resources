@@ -160,10 +160,11 @@ https://github.com/losrobbos/file-upload-guide
 
 NextJS is a React FRAMEWORK, so it is built upon React, adding some very handy extra features.
 
-Features you get mostly out of the box:
+Features you get out of the box:
 - Routing (no React-Router-DOM)
 - Server Side Rendering (for Search Engine optimization)
 - API routes (integrated backend functions!)
+- Authentication between Frontend & Backend
 
 Learning NextJS:
 
@@ -300,7 +301,7 @@ Most problems of these kind have already been solved in the past.
 
 And the lessons and "patterns" that came out of that are: Design Patterns. 
 
-Design patterns are suggestions onw how to write software to fulfill the goals above.
+Design patterns are suggestions on how to write software to fulfill the goals above.
 
 We have two base programming techniques of producing code:
 - Object Oriented Programming (OOP)
@@ -308,28 +309,29 @@ We have two base programming techniques of producing code:
 
 For both of these "paradigms" we would apply different patterns, as OOP and FP code structures differ quite a bit.
 
-Therefore the FIRST design choice is:
-- Functional Programming vs OOP vs a mix of both (=hybrid)
+Therefore the FIRST design choice is: Functional Programming vs OOP vs a mix of both (=hybrid)
 
 For languages like JavaScript we could use patterns from BOTH worlds, because JS allows a mixture of functional & OOP programming.
 
-So it makes sense to learn some OOP design patterns, even if you are just dealing with 
+So it makes sense to learn some OOP design patterns, even if you are mostly just coding using functions. At some point classes might get handy
 
 #### OOP Design Patterns
 
 There is very famous standard book for OOP design patterns by the "Gang of Four" (often called just GoF).
 
-Another famous series of patterns are the <b>SOLID</b> princliples.
+Another famous series of patterns are the <b>SOLID</b> principles.
 
 Now getting into all that design patterns (several dozen) without any concrete real life use case at hand would probably a bit overkill at first.
 
 In order to get into design patterns, you can also start with a YouTube playlist which will make the topic a bit more accessible ;)
 
-Design Patterns - some famous "Gang of Four" design patterns + the SOLID design patterns:
+Playlist - Design Patterns - some famous "Gang of Four" design patterns + the SOLID design patterns:
 
 https://www.youtube.com/watch?v=BWprw8UHIzA&list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f
 
 #### Pure Functional Programming (no OOP)
+
+In case you wanna do "all functional" or just mostly functional, it might make sense to dive a little bit into some functional programming paradims:
 
 - Functional Programmers Toolbox: https://www.youtube.com/watch?v=Nrp_LZ-XGsY
 - Function Composition: https://www.youtube.com/watch?v=rCKPgu4DvcE
