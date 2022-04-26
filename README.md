@@ -2,11 +2,14 @@
 
 Please find here some of my recommended resources for continuing your coding journey in JavaScript / TypeScript by self studying.
 
-For the following topics you will find some intro comments & resources to study on:
+For the following topics you will find some intro comments & resources to move on (in case you do not have already plans ;))
 
 - React & React TypeScript
 - Team Development process
 - Fullstack concepts (e.g. file upload)
+- Smartphone Development with React Native
+- Fullstack development with NextJS
+- Test Driven Development (TDD)
 - Design patterns
 - Algorithms & Data Structures
 - Application Architecture
