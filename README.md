@@ -237,19 +237,19 @@ Examples:
 - Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
 - Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
 
-For a little more interactivity (e.g. Kollisionen with moving items or enemies) it makes it a lot easier to use a Game library (often called "engine")
+For a little more interactivity (e.g. collisions with moving items or enemies) it will be a lot easier to use a game library (often called "game engine")
 
 
-#### 2D Engines
+#### 2D Game Engines
 
 - Phaser: https://phaser.io/examples
 - Kaboom: https://kaboomjs.com/
 
 Examples:
 
-- Mario Game: https://leongeldsch.github.io/mario/
+- Mario Game (Kaboom): https://leongeldsch.github.io/mario/
 
-#### 3D Engines
+#### 3D Game Engines
 
 - BabylonJS: https://doc.babylonjs.com/start
 - Enable 3D: https://enable3d.io/docs.html
@@ -271,31 +271,31 @@ Examples Enable3D (with mouse movement you can change the view):
 
 Design patterns are patterns for designing the code for your application. Straight and simple.
 
-We all know the design of a webpage in the browser.
+We all know the design of a webpage in the browser. But what does "design the code" mean? 
 
-But what does "design" mean for code?? It sounds a bit weird. Does it mean to style your code with CSS? Nope :)  
+It sounds a bit weird. Does it mean to style your code with CSS? Nope :)  
 
 So let's start with the problem.
 
 We all know - You often need to COMBINE functions and classes in a way to create an application that solves problems of a user.
 
-Writing code that realizes some feature is just ONE part of the game. 
+Writing code that realizes some feature is just ONE part of the game. But often it is not straight forward, how to ARRANGE classes and functions to work together.
 
-Once we code a feature, we are not done.
+And even if we get our feature "somehow" working: That does not mean we are done with it forever.
 
-Unfortunately we cannot just code our app once and forget about it.
+Unfortunately we cannot just code our app features once and forget about it.
 
 Once the app is deployed and users actually start USING it, we will need to CONTINUE working on the code.
 
-Meaning: Adding new features. Fixing bugs of existing features.
+Meaning: Fixing bugs of existing features. Refactoring not optimal code, e.g. for performance optimization. Adding new features on top of existing features.
 
 So we get these common problems we need to tackle:
 
-- solve the user problems by code (first and foremost)
-- keep the code EXTENDABLE, so we can add new features without the need to change all our code 
-- keep the app PERFORMANT, so it will not collapse if we add more and more features
+- solve the user problems by CREATING & ARRANGING our classes and functions to work together properly 
+- keep the code EXTENDABLE, so we can add new features without the need to change all our code on new requirements 
+- keep the app PERFORMANT, so it will not collapse if we get more and more active users 
 
-And we are lucky. 
+And we are lucky.
 
 Most problems of these kind have already been solved in the past.
 
@@ -403,13 +403,24 @@ For that part we need to know about <b>ALGORITHMS</b>.
 
 For those who wanna step a little bit "outside the box" of just coding a feature or app and look at the broader picture on how to actually setup the FOUNDATION for a web project?
 
-Often it is not just a "tech stack", e.g. React for the Frontend & Java Spring for the Backend + a bunch of developers that will magically get you going.
+Design Patterns are an important part for that. But design patterns just address the code itself.
 
-We must come up with a general plan on HOW we wanna develop the software (= the process).
+But often it is not just a well organized code in a tech stack, e.g. React for the Frontend & Java Spring for the Backend + a bunch of developers that will magically get you going.
 
-And how we organize and setup the application STRUCTURE to reach user satisfaction (e.g. high availability of our page without downtimes or breaking pages, fast page loads even with more and more users on our page, etc).
+We must come up with a general plan on HOW we wanna develop the software (= the process) and how we can develop it in a way to keep the complexity in check + the possibility to react to challenges, e.g. sudden unexpected traffic peaks for certain pages of our app, that starts loading super slow as a consequence.
 
-And how do we deal with rising complexity as more and more features get added... and added... and added? How do we make sure, our app does not turn into a gigantic ball of mudd, causing chaos, panic and disorder in our team?
+And how do we deal with rising complexity as more and more features get added... and added... and added? 
+
+How do we make sure, our app does not turn into a gigantic ball of mudd, causing chaos, panic and disorder in our team?
+
+For this we need to think, apart from the code and its organisation, also about broader factors:
+
+- Which parts of our app are performance critical and maybe need more resources than others?
+- How do we decouple (=split) & integrate parts of our app, so they can be scaled indepenently?
+- Which tech stack is best suited for our kind of user problems?
+- Which external services we need and how do we integrate them?
+
+All these are questions not primarily related to code. They are related to the overal plan, the overall ARCHITECTURE of our app.
 
 Some nice resources:
 
