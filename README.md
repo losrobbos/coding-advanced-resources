@@ -16,6 +16,7 @@ Following are some fields where you could go next (In case you do not have other
 - Game Development
 
 Don't get overwhelmed by this huge amount of topics. 
+
 Each topic alone could keep one busy for weeks (like React TypeScript) up to months (like Algorithms).
 
 So with that list you could extend your own self-study curriculum to several years.
@@ -417,3 +418,12 @@ Event Driven Architecture: https://www.youtube.com/watch?v=STKCRSUsyP0
 - Refactoring (Book): https://www.amazon.de/Refactoring-Improving-Existing-Addison-wesley-Signature/dp/0134757599/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C1UG06LG4U7O&keywords=martin+fowler&qid=1650534047&sprefix=martin+fowler%2Caps%2C93&sr=8-2
 
 
+### Further Topics
+
+Some topics that are not handled yet here, but maybe are of more interest for you:
+- Building desktop apps (like VsCode oder Slack) with Electron JS
+- AI & Machine Learning
+- Deployment Automation with CI / CD (Continuous Integration / Continuous Delivery)
+
+
+I wish you a happy coding journey, may the code force be with you!
