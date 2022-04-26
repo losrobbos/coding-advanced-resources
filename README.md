@@ -15,6 +15,11 @@ Following are some fields where you could go next (In case you do not have other
 - Application Architecture
 - Game Development
 
+Don't get overwhelmed by this huge amount of topics. 
+Each topic alone could keep one busy for weeks (like React TypeScript) up to months (like Algorithms).
+
+So with that list you could extend your own self-study curriculum to several years.
+
 This guide will get updated from time to time with new resources.
 
 ## Most important JavaScript basics 
