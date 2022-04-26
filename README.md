@@ -2,7 +2,7 @@
 
 Please find here some of my recommended resources for continuing your coding journey in JavaScript / TypeScript by self studying.
 
-For the following topics you will find some intro comments & resources to move on (in case you do not have already plans ;))
+Following are some fields where you could go next (In case you do not have other plans already ;)):
 
 - React & React TypeScript
 - Team Development process
