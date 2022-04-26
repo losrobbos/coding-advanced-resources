@@ -243,6 +243,76 @@ Examples Enable3D (with mouse movement you can change the view):
 - Mini Jump n'Run Game with Perspective Change (using F Keyboard Key): https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
 
 
+### Design Patterns
+
+Design patterns are patterns for designing the code for your application. Straight and simple.
+
+We all know the design of a webpage in the browser.
+
+But what does "design" mean for code?? It sounds a bit weird. Does it mean to style your code with CSS? Nope :)  
+
+So let's start with the problem.
+
+We all know - You often need to COMBINE functions and classes in a way to create an application that solves problems of a user.
+
+Writing code that realizes some feature is just ONE part of the game. 
+
+Once we code a feature, we are not done.
+
+Unfortunately we cannot just code our app once and forget about it.
+
+Once the app is deployed and users actually start USING it, we will need to CONTINUE working on the code.
+
+Meaning: Adding new features. Fixing bugs of existing features.
+
+So we get these common problems we need to tackle:
+
+- solve the user problems by code (first and foremost)
+- keep the code EXTENDABLE, so we can add new features without the need to change all our code 
+- keep the app PERFORMANT, so it will not collapse if we add more and more features
+
+And we are lucky. 
+
+Most problems of these kind have already been solved in the past.
+
+And the lessons and "patterns" that came out of that are: Design Patterns. 
+
+Design patterns are suggestions onw how to write software to fulfill the goals above.
+
+We have two base programming techniques of producing code:
+- Object Oriented Programming (OOP)
+- Functional Programming (FP)
+
+For both of these "paradigms" we would apply different patterns, as OOP and FP code structures differ quite a bit.
+
+Therefore the FIRST design choice is:
+- Functional Programming vs OOP vs a mix of both (=hybrid)
+
+For languages like JavaScript we could use patterns from BOTH worlds, because JS allows a mixture of functional & OOP programming.
+
+So it makes sense to learn some OOP design patterns, even if you are just dealing with 
+
+#### OOP Design Patterns
+
+There is very famous standard book for OOP design patterns by the "Gang of Four" (often called just GoF).
+
+Another famous series of patterns are the <b>SOLID</b> princliples.
+
+Now getting into all that design patterns (several dozen) without any concrete real life use case at hand would probably a bit overkill at first.
+
+In order to get into design patterns, you can also start with a YouTube playlist which will make the topic a bit more accessible ;)
+
+Design Patterns - some famous "Gang of Four" design patterns + the SOLID design patterns:
+
+https://www.youtube.com/watch?v=BWprw8UHIzA&list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f
+
+#### Pure Functional Programming (no OOP)
+
+- Functional Programmers Toolbox: https://www.youtube.com/watch?v=Nrp_LZ-XGsY
+- Function Composition: https://www.youtube.com/watch?v=rCKPgu4DvcE
+
+
+
 ### Algorithms & Data Structures 
 
 In the "real world" you sometimes face problems that could not be solved by looping over an array or counting up some numbers.
@@ -300,11 +370,6 @@ For that part we need to know about <b>ALGORITHMS</b>.
 - Book - Algorithms & Data Structures: https://www.amazon.de/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=algorithmen+und+datenstrukturen&qid=1650527384&sr=8-6
 - Book - Algorithmen for Dummies (deutsch) - mit Reallife Bezug und Humor ;): https://www.amazon.de/Algorithmen-Datenstrukturen-Dummies-Andreas-Gogol-D%C3%B6ring/dp/3527714324/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QZM3C9T92QKN&keywords=algorithmen+und+datenstrukturen&qid=1650525285&sprefix=algorithmen+und+datenstrukturen%2Caps%2C87&sr=8-1 
 
-
-#### Pure Functional Programming (no OOP)
-
-- Functional Programmers Toolbox: https://www.youtube.com/watch?v=Nrp_LZ-XGsY
-- Function Composition: https://www.youtube.com/watch?v=rCKPgu4DvcE
 
 
 ### Architecture
