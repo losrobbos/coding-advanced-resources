@@ -186,25 +186,25 @@ Let's say you invested dozens of hours into this nice feature.
 
 Your code works "fine" at the end. The feature works in the browser.
 
-But then you realize: DAMN! This code is a bit messy. It works. But probably it needs quite some restructuring and polishing.
+You pushed it. And it gets released. The world is fine.
 
-All good.
+But then you realize: DAMN! This code is a bit messy. It works. But probably it needs quite some restructuring and polishing.
 
 But if we are working in a TEAM PROJECT we could get into a serious problem now.
 
-Our nice feature is important. Work of others DEPENDS on that!
+Our nice feature is important. In the meantime others have already built up new features based on your feature! So work of others DEPENDS on that feature to be working like expected.
 
-So IF we change and re-organize that (the term for this is REFACTORING), we MUST make sure, that the OUTPUT of that refactoring is the same as before! So all code which depends on my code, will still work as before.
+So IF we change and re-organize that (the term for this is REFACTORING), we MUST make sure, that the OUTPUT of our code after that refactoring is the same as before! 
 
-In order to give you safety for your refactoring, you need some sort of hallmark to check against
+So all code which depends on that feature, will still work as before.
+
+In order to give you safety for your refactoring, you need to ASSURE a certain output of your function(s).
 
 You need .... a TEST! 
 
-YES!
+A TEST simply means, a piece of code which check if your feature code works like expected.
 
-A TEST simply means, a piece of code to check if your code works like expected.
-
-And you can USE that piece of code to check - after you have done all your changes & cleanings - if the code STILL works exactly as before.
+And you can use that piece of test code to check - after you have done all your changes & cleanings - if the feature code still works exactly as before.
 
 So everybody can be safe to CHANGE their stuff and still make sure, they do not break anything with their change in the system.
 
