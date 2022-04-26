@@ -95,6 +95,8 @@ Learning Material UI:
 - Playlist: https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
 
 
+## Advanced
+
 ### Fullstack Guides (Frontend & Backend)
 
 API Connect Guide: https://github.com/losrobbos/api-connect-guide
@@ -111,8 +113,6 @@ API Prototyping: https://github.com/losrobbos/api-prototyping
 
 Glossary (DCI): https://github.com/losrobbos/glossary
 
-
-## Advanced
 
 ### File Uploads
 
