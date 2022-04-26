@@ -384,6 +384,7 @@ For that part we need to know about <b>ALGORITHMS</b>.
 #### Coding Challenges online
 
 - Exercism: https://exercism.org/tracks/javascript/exercises
+- Codewars: https://www.codewars.com/join
 - Edabit: https://edabit.com/challenges/javascript
 - Hackerrank: https://www.hackerrank.com/
 
