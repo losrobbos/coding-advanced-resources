@@ -2,6 +2,18 @@
 
 Please find here some of my recommended resources for continuing your coding journey in JavaScript / TypeScript by self studying.
 
+For the following topics you will find some intro comments & resources to study on:
+
+- React & React TypeScript
+- Team Development process
+- Fullstack concepts (e.g. file upload)
+- Design patterns
+- Algorithms & Data Structures
+- Application Architecture
+- Game Development
+
+This guide will get updated from time to time with new resources.
+
 ## Most important JavaScript basics 
 
 These are the most essential JS concepts in order to start with Framework Development (e.g. React or Express)
