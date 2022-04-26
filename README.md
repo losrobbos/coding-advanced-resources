@@ -97,17 +97,17 @@ Learning Material UI:
 
 ## Advanced
 
-### Fullstack Guides (Frontend & Backend)
+### Fullstack Guides (Frontend, Backend, Deployment )
 
 API Connect Guide: https://github.com/losrobbos/api-connect-guide
-
-Databases - Getting started: https://github.com/losrobbos/databases-getting-started
-
-Data Modeling samples: https://github.com/losrobbos/data-modeling-guide
 
 Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
 
 Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
+
+Databases - Getting started: https://github.com/losrobbos/databases-getting-started
+
+Data Modeling samples: https://github.com/losrobbos/data-modeling-guide
 
 API Prototyping: https://github.com/losrobbos/api-prototyping
 
