@@ -168,6 +168,12 @@ Features you get out of the box:
 - API routes (integrated backend functions!)
 - Authentication between Frontend & Backend
 
+For me personally NextJS makes me probably 50% more productive, compared to normal React development. I absolutely love it!
+
+It takes away a lot of default work for me, which I usually need to setup & configure painfully on a new project, like routing or providing several authentication methods. 
+
+That alone makes it much more fun for me to develop in NextJS, because I can pretty much focus on my app logic right away, without all that draining "standard tasks" setup.
+
 Learning NextJS:
 
 - Playlist: https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH
