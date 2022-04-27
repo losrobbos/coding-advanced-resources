@@ -321,7 +321,7 @@ Therefore the FIRST design choice is: Functional Programming vs OOP vs a mix of 
 
 For languages like JavaScript we could use patterns from BOTH worlds, because JS allows a mixture of functional & OOP programming.
 
-So it makes sense to learn some OOP design patterns, even if you are mostly just coding using functions. At some point classes might get handy
+So it makes sense to learn some OOP design patterns, even if you are mostly just coding functions. At some point classes might get handy too, to solve specific problems.
 
 #### OOP Design Patterns
 
