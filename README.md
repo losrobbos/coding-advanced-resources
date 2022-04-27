@@ -415,9 +415,9 @@ You coded all that little apps.
 
 You mastered a lot of different code tasks in your life.
 
-Are you ready to go all in now?
+Are you ready to go all-in now?
 
-For those wanna step a little bit "outside the box" of just coding a feature in a team or creating own small web apps... it is tike to look at the broader picture on how to actually setup the FOUNDATION for more complex web projects. 
+For those wanna step a little bit "outside the box" of just coding a feature in a team or creating own small web apps... it is time to look at the broader picture on how to actually setup the FOUNDATION for more complex web projects. 
 
 And enable us to setup design decisions on such a project for a team.
 
