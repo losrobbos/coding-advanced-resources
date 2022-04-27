@@ -421,15 +421,19 @@ For those wanna step a little bit "outside the box" of just coding a feature in 
 
 And enable us to setup design decisions on such a project for a team.
 
+Once you reach that step, you might be ready for an architect position or lead development.
+
 Design Patterns are an important part of that. But design patterns just address the code itself.
 
 It is not enough to just rely on well written code in some tech stack, e.g. React for the Frontend & Java Spring for the Backend + a bunch of developers that will magically get you going.
 
 Fist we must come up with a general plan on HOW we wanna develop the software, with a process that fits to the development goals. 
 
-And how we can develop it in a way to keep the performance & complexity in check + the possibility to react to challenges, e.g. sudden traffic peaks for certain pages of our app, that start loading super slow.
+And how we can develop it in a way to keep the performance & complexity in check + the possibility to react to challenges? (e.g. sudden traffic peaks for certain pages of our app, that start loading super slow)
 
-And how do we deal with rising complexity as more and more features get added... and added... and added? Will out app still SCALE well, meaning: Will it not significantly SLOW DOWN or becomes more and more ERROR prone with more and more features, connected services, registered users and involved developers?
+And how do we deal with rising complexity as more and more features get added... and added... and added? 
+
+Will our app still SCALE well, meaning: Will it not significantly SLOW DOWN or become more and more ERROR prone with more and more features, connected services, registered users and involved developers?
 
 How do we make sure, our app does not turn into a gigantic ball of mudd, causing chaos, panic and disorder in our team?
 
