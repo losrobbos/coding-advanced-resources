@@ -81,7 +81,9 @@ Of course, sometimes also our functions PROCESS the data incorrectly, because we
 
 ### Git Development in a team
 
-A guide with a real life, practical, hands-on process including all Git commands - Setup and enjoy Team Development without worrying all the time about your next Git merge ;)
+A guide with a real life, practical, hands-on process including all Git commands.
+
+Setup and enjoy Team Development without worrying all the time about your next Git merge ;)
 
 https://github.com/losrobbos/github-flow-guide/blob/main/GIT_WORKFLOW.github.md
 
