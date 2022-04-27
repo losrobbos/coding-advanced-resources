@@ -17,7 +17,7 @@ Following are some fields where you could go next (In case you do not have other
 
 Don't get overwhelmed by this huge amount of topics. 
 
-Each topic alone could keep one busy for weeks (like React TypeScript) up to months (like Algorithms).
+Each topic alone could keep one busy for weeks (like React TypeScript) up to months or even years (like Algorithms).
 
 So with that list you could extend your own self-study curriculum to several years.
 
