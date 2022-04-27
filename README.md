@@ -181,7 +181,7 @@ Learning NextJS:
 
 ### React Native
 
-With React Native you can build on all your nice, built-up React knowledge... and build smartphone apps.
+With React Native you can build up on all your - earned by sweat, pain and nervous breakdowns - gained React knowledge... and now build smartphone apps!
 
 I got a React Native "Getting started" guide here, which might be helpful as preparation, before you get into the official docs:
 
