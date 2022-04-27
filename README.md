@@ -409,15 +409,27 @@ For that part we need to know about <b>ALGORITHMS</b>.
 
 ### Architecture
 
-For those who wanna step a little bit "outside the box" of just coding a feature or app and look at the broader picture on how to actually setup the FOUNDATION for a web project?
+At some point you might be ready.
 
-Design Patterns are an important part for that. But design patterns just address the code itself.
+You coded all that little apps.
 
-But often it is not just a well organized code in a tech stack, e.g. React for the Frontend & Java Spring for the Backend + a bunch of developers that will magically get you going.
+You mastered a lot of different code tasks in your life.
 
-We must come up with a general plan on HOW we wanna develop the software (= the process) and how we can develop it in a way to keep the complexity in check + the possibility to react to challenges, e.g. sudden unexpected traffic peaks for certain pages of our app, that starts loading super slow as a consequence.
+Are you ready to go all in now?
 
-And how do we deal with rising complexity as more and more features get added... and added... and added? 
+For those wanna step a little bit "outside the box" of just coding a feature in a team or creating own small web apps... it is tike to look at the broader picture on how to actually setup the FOUNDATION for more complex web projects. 
+
+And enable us to setup design decisions on such a project for a team.
+
+Design Patterns are an important part of that. But design patterns just address the code itself.
+
+It is not enough to just rely on well written code in some tech stack, e.g. React for the Frontend & Java Spring for the Backend + a bunch of developers that will magically get you going.
+
+Fist we must come up with a general plan on HOW we wanna develop the software, with a process that fits to the development goals. 
+
+And how we can develop it in a way to keep the performance & complexity in check + the possibility to react to challenges, e.g. sudden traffic peaks for certain pages of our app, that start loading super slow.
+
+And how do we deal with rising complexity as more and more features get added... and added... and added? Will out app still SCALE well, meaning: Will it not significantly SLOW DOWN or becomes more and more ERROR prone with more and more features, connected services, registered users and involved developers?
 
 How do we make sure, our app does not turn into a gigantic ball of mudd, causing chaos, panic and disorder in our team?
 
