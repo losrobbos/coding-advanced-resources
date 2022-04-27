@@ -325,11 +325,11 @@ So it makes sense to learn some OOP design patterns, even if you are mostly just
 
 #### OOP Design Patterns
 
-There is very famous standard book for OOP design patterns by the "Gang of Four" (often called just GoF).
+There is a very famous standard book for OOP design patterns by the "Gang of Four" (often called just GoF).
 
 Another famous series of patterns are the <b>SOLID</b> principles.
 
-Now getting into all that design patterns (several dozen) without any concrete real life use case at hand would probably a bit overkill at first.
+Now getting into all that design patterns (several dozen) without any concrete real life use case at hand would probably be a bit overkill at first.
 
 In order to get into design patterns, you can also start with a YouTube playlist which will make the topic a bit more accessible ;)
 
