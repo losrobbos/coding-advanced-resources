@@ -10,7 +10,7 @@ Following are some fields where you could go next (In case you do not have other
 - Smartphone Development with React Native
 - Fullstack development with NextJS
 - Test Driven Development (TDD)
-- Design patterns
+- Design Patterns
 - Algorithms & Data Structures
 - Application Architecture
 - Game Development
