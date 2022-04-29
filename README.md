@@ -119,6 +119,20 @@ Learning Material UI:
 
 - Playlist: https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
 
+### Backend Topics
+
+Languages for backend
+- Java
+- PHP
+- C#
+- Python
+- Go
+
+Frameworks:
+- Java => Spring
+- PHP = Laravel, Symfony
+- C# => .NET
+- Python => Django / Flask
 
 ## Advanced
 
