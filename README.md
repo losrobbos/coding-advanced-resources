@@ -123,13 +123,14 @@ Learning Material UI:
 
 JavaScript / TypeScript can be used to code backends.
 
-In case you are still not sure, if you wanna go the frontend or backend direction, 
-it would make sense to also learn backend coding with JAVASCRIPT first. That will be a lot easier compared to learning a brand new language.
+In case you are not sure so far, if you wanna specialize on frontend or backend development in your career, 
+it would make sense to learn backend coding with JAVASCRIPT first. That will be a lot easier compared to learning a brand new language. 
 
-As database MongoDB is naturally suited for JavaScript, because in MongoDB you basically read & write "kind of" JavaScript data. It will be very familiar.
+And you will learn all important backend concepts this way and will be able to also code backends in other languages at some point.
 
-Once you wanna FOCUS on backend development, so you wanna become a specialized backend developer, you will have to learn at least one further language
-and additionally at least one SQL database (it doesn't matter much which one, but PostgreSQL or MySQL are natural first choices).
+For the database MongoDB is naturally fitting for JavaScript, because in MongoDB you basically read & write JavaScript data. It will be very familiar.
+
+Once you wanna FOCUS on backend development, so you wanna become a specialized backend developer, you will have to learn at least one further language. And additionally at least one SQL database (it doesn't matter much which one, but PostgreSQL or MySQL are natural first choices).
 
 Languages for backend
 - Java
