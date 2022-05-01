@@ -178,18 +178,13 @@ Glossary (DCI): https://github.com/losrobbos/glossary
 
 ### File Uploads
 
-In most web applications a user can signup and create a user profile.
+In most web applications where user can create contents, we need to provide FILE UPLOAD functionality.
 
-If the user is able to generate contents, e.g. blog posts or cmments, usually the AVATAR image of that user will be shown. 
-And the user should have the choice to upload an own image for that avatar.
+E.g. the user can pick a personal AVATAR image for its profile or upload a recipe image for a recipe page.
 
-Or the user wants to submit a recipe on a repices page, uploading an image of the final result of the recipe.
+File Uploads allow the user to pick an image from disk and send it over to a backend. The backend then stores it, either on DISK or in a DATABASE.
 
-For use cases like this: We need to provide a FILE UPLOAD functionality.
-
-File Uploads allow the user to pick an image from disk and upload it to a backend.
-
-Find here a guide how you can realize a file upload fullstack, using React as the Framework, Express.js as the backend
+Find here a guide how you can realize a file upload fullstack, using React for the Frontend, Express.js as the backend
 and a file cloud provider to store the files in the cloud for free:
 
 https://github.com/losrobbos/file-upload-guide
