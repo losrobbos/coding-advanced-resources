@@ -135,7 +135,7 @@ For the database MongoDB is naturally fitting for JavaScript, because in MongoDB
 
 Once you wanna FOCUS on backend development, so you wanna become a specialized backend developer, you will have to learn at least one further language. And additionally at least one SQL database (it doesn't matter much which one, but PostgreSQL or MySQL are natural first choices).
 
-Languages for backend
+Most used languages for backend development:
 - Java
 - PHP
 - C#
@@ -146,9 +146,11 @@ Common databases:
 - PostgreSQL
 - MySQL
 
-Frameworks:
+But the language, like usual, is not enough. Together with the language you need to learn a backend framework.
+
+Popular Frameworks:
 - Java => Spring
-- PHP = Laravel, Symfony
+- PHP => Laravel, Symfony
 - C# => .NET
 - Python => Django / Flask
 
