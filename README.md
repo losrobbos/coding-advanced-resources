@@ -301,11 +301,12 @@ Examples:
 #### 3D Game Engines
 
 - BabylonJS: https://doc.babylonjs.com/start
+  - Babylon has a great Step by Step guide with a playground, where you can test things out easily: https://doc.babylonjs.com/
 - Enable 3D: https://enable3d.io/docs.html
   - Enable 3D Examples: https://enable3d.io/examples.html
 
-Examples BabylonJS:
-- https://www.babylonjs.com/games/
+Babylon Examples: 
+  - https://www.babylonjs.com/games/
 
 Examples Enable3D (with mouse movement you can change the view):
 - 3D World: https://enable3d.io/examples/medieval-fantasy-book-standalone.html
@@ -314,6 +315,8 @@ Examples Enable3D (with mouse movement you can change the view):
 - Wall Crash: https://enable3d.io/examples/wrecking-ball-with-metal-chain.html
 - Ego Shooter: https://enable3d.io/examples/first-person-shooter.html
 - Mini Jump n'Run Game with Perspective Change (using F Keyboard Key): https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
+
+My currently preferred engine is <b>BabylonJS</b>, due to the superb documentation & easy to follow guides.
 
 
 ### Design Patterns
