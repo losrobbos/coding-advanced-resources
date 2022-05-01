@@ -484,7 +484,7 @@ For this we need to think, apart from the code and its organisation, also about 
 - Which parts of our app are performance critical and maybe need more resources than others?
 - How do we decouple (=split) & integrate parts of our app, so they can be scaled indepenently?
 - Which tech stack is best suited for our kind of user problems?
-- Which external services we need and how do we integrate them?
+- Which external services we need and how do we integrate them? Do we use Providers like AWS, Azure or Google Cloud for hosting & scaling our app?
 
 All these are questions not primarily related to code. They are related to the overal plan, the overall ARCHITECTURE of our app.
 
