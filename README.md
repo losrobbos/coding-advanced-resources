@@ -65,7 +65,9 @@ At the end of the day you can see your application as a big chain of calling fun
 
 So what do you guess is the most common ISSUE in our functions then?
 
-In the IT world there is a famous meme called "SHIT IN -> SHIT OUT". Meaning: Incorrect INPUT data passed to a function will return incorrect OUTPUT. It is that simple.
+In the IT world there is a famous meme called "SHIT IN -> SHIT OUT". 
+
+Meaning: Incorrect INPUT data passed to a function will return incorrect OUTPUT. It is that simple.
 
 TYPES will assure that you call your functions with CORRECT INPUT PARAMETERS throughout your code and also makes sure functions always RETURN the correct, expected OUTPUT DATA format.
 
