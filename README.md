@@ -124,7 +124,7 @@ Of course, sometimes also our functions PROCESS the data incorrectly, because we
 
 ### Backend Topics
 
-JavaScript / TypeScript can be used to code backends.
+JavaScript / TypeScript can be used to code backends too.
 
 In case you are not sure so far, if you wanna specialize on frontend or backend development in your career, 
 it would make sense to learn backend coding with JAVASCRIPT first. That will be a lot easier compared to learning a brand new language. 
