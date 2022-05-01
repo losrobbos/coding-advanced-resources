@@ -55,32 +55,6 @@ These are the most essential JS concepts in order to start with Framework Develo
 - Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
 
 
-### React with TypeScript
-
-In a project React is very often used in combination with TypeScript instead of classical JavaScript.
-
-Without getting into all the details, Typescript makes your code (much!) more robust by adding so called TYPES to your JavaScript code.
-
-At the end of the day you can see your application as a big chain of calling functions, passing data around, changing data, returning data, displaying data. That is actually all there is.
-
-So what do you guess is the most common ISSUE in our functions then?
-
-In the IT world there is a famous meme called "SHIT IN -> SHIT OUT". 
-
-Meaning: Incorrect INPUT data passed to a function will return incorrect OUTPUT. It is that simple.
-
-TYPES will assure that you call your functions with CORRECT INPUT PARAMETERS throughout your code and also makes sure functions always RETURN the correct, expected OUTPUT DATA format.
-
-By this simple "hardening" of your functions, probably 80% of issues in your application code can already be eliminated. Sometimes more, sometimes less. But definitely: It will impact the stability of your code massively.
-
-Of course, sometimes also our functions PROCESS the data incorrectly, because we used wrong logic. This is something TypeScript cannot solve. At the end of the day, also SOME debugging fun must be left for us ;)
-
-
-- TypeScript Intro - PlayList: https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PLzAGFfNxKFuZgoZJPAfW_DeA2guNk849V
-
-- React with TypeScript - Playlist: https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
-
-
 ### Git Development in a team
 
 A guide with a real life, practical, hands-on process including all Git commands.
@@ -111,7 +85,7 @@ Then give the "Material UI" package a shot.
 
 With Material UI you can get - similar to Bootstrap - UI components out of the box, by simply "copy & paste & adapt". 
 
-Material UI components also often bring some JavaScript logic out of the box, e.g. for picking a date from a calenader.
+Material UI components also often bring some JavaScript logic out of the box, e.g. for picking a date from a calendar.
 
 The Material UI package uses the famous "Material Design". 
 
@@ -120,6 +94,33 @@ The package was specifically developed for React.
 Learning Material UI:
 
 - Playlist: https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
+
+
+### React with TypeScript
+
+In a project React is very often used in combination with TypeScript instead of classical JavaScript.
+
+Without getting into all the details, Typescript makes your code (much!) more robust by adding so called TYPES to your JavaScript code.
+
+At the end of the day you can see your application as a big chain of calling functions, passing data around, changing data, returning data, displaying data. That is actually all there is.
+
+So what do you guess is the most common ISSUE in our functions then?
+
+In the IT world there is a famous meme called "SHIT IN -> SHIT OUT". 
+
+Meaning: Incorrect INPUT data passed to a function will return incorrect OUTPUT. It is that simple.
+
+TYPES will assure that you call your functions with CORRECT INPUT PARAMETERS throughout your code and also makes sure functions always RETURN the correct, expected OUTPUT DATA format.
+
+By this simple "hardening" of your functions, probably 80% of issues in your application code can already be eliminated. Sometimes more, sometimes less. But definitely: It will impact the stability of your code massively.
+
+Of course, sometimes also our functions PROCESS the data incorrectly, because we used wrong logic. This is something TypeScript cannot solve. At the end of the day, also SOME debugging fun must be left for us ;)
+
+
+- TypeScript Intro - PlayList: https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PLzAGFfNxKFuZgoZJPAfW_DeA2guNk849V
+
+- React with TypeScript - Playlist: https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
+
 
 ### Backend Topics
 
