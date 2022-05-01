@@ -234,21 +234,30 @@ But if we are working in a TEAM PROJECT we could get into a serious problem now.
 
 Our nice feature is important. In the meantime others have already built up new features based on your feature! So work of others DEPENDS on that feature to be working like expected.
 
-So IF we change and re-organize that (the term for this is REFACTORING), we MUST make sure, that the OUTPUT of our code after that refactoring is the same as before! 
+So IF we change and re-organize that (the term for this is REFACTORING), we must make sure, that the OUTPUT of our code after that refactoring is the same as before!
 
-So all code which depends on that feature, will still work as before.
+So all code which DEPENDS on that feature (either code from you or your team mates), will still work as before too!
 
 In order to give you safety for your refactoring, you need to ASSURE a certain output of your function(s).
 
 You need .... a TEST! 
 
-A TEST simply means, a piece of code which check if your feature code works like expected.
+A TEST simply means: A piece of Code. A piece of code which checks if your feature code works like expected.
 
-And you can use that piece of test code to check - after you have done all your changes & cleanings - if the feature code still works exactly as before.
+You can use that piece of test code to check - after you have done all your changes & cleanings - if the feature code still works exactly as before.
 
-So everybody can be safe to CHANGE their stuff and still make sure, they do not break anything with their change in the system.
+And the nice thing is: This TESTING can be automated. Meaning: Once you have written a test you can check AGAIN and AGAIN that your code works like expected, automatically.
 
-That is it. That is the basic use case for testing: 
+And if you write tests for literally ALL your functions in your app, you basically have assured the OVERAL functionality of your app.
+
+So with that process in place, everybody in the team can be safe to not just add but also CHANGE stuff in the app. 
+
+The TESTS will make (almost) sure, nothing gets broken in the system.
+
+That is it. 
+
+That is the basic use case for testing: 
+
 <b>ASSURING functionality, even after (a lot of) changes in the code structure</b>
 
 
