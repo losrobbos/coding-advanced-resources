@@ -478,12 +478,17 @@ For this we need to think, apart from the code and its organisation, also about 
 
 All these are questions not primarily related to code. They are related to the overal plan, the overall ARCHITECTURE of our app.
 
+
+
 Some nice resources:
 
 - Domain Driven Design - Von Reallife Problemen zu Code Architektur (Book): https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?keywords=domain+driven+design&qid=1650536079&sprefix=domain+driven%2Caps%2C143&sr=8-1 
-- Server im Web: Proxy vs Reverse Proxy (sehr anschaulich :)):
+- The very basics of Servers in the web: Proxy vs Reverse Proxy:
 https://www.youtube.com/watch?v=MiqrArNSxSM
-Event Driven Architecture: https://www.youtube.com/watch?v=STKCRSUsyP0 
+- Backend architecture: Serverless vs Microservices - High Level: https://www.youtube.com/watch?v=EpW28dvm_qo
+- Microservices architecture for complex backends (Martin Fowler): https://www.youtube.com/watch?v=2yko4TbC8cI 
+- Event Driven Architecture (Martin Fowler): https://www.youtube.com/watch?v=STKCRSUsyP0 
+- Automating Software Deployments using "Continuous Delivery" (Martin Fowler): https://www.youtube.com/watch?v=aoMfbgF2D_4
 - IT Architecture (Book): https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C1UG06LG4U7O&keywords=martin+fowler&qid=1650534047&sprefix=martin+fowler%2Caps%2C93&sr=8-1
 - Refactoring (Book): https://www.amazon.de/Refactoring-Improving-Existing-Addison-wesley-Signature/dp/0134757599/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C1UG06LG4U7O&keywords=martin+fowler&qid=1650534047&sprefix=martin+fowler%2Caps%2C93&sr=8-2
 
