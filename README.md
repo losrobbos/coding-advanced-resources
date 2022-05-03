@@ -171,6 +171,8 @@ Caching & Messaging:
 - Redis
 
 
+#### The two main API patterns
+
 There are two main approaches how you can build a DATA SERVER (=API) for your frontend.
 
 You can either build a <b>REST</b> or <b>GraphQL</b> API. 
