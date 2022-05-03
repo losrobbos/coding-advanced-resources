@@ -61,7 +61,7 @@ A guide with a real life, practical, hands-on process including all Git commands
 
 Setup and enjoy Team Development without worrying all the time about your next Git merge ;)
 
-https://github.com/losrobbos/github-flow-guide/blob/main/GIT_WORKFLOW.github.md
+https://github.com/losrobbos/github-flow-guide
 
 
 ### Code Formatting & Linting
@@ -344,8 +344,7 @@ Meaning: Fixing bugs of existing features. Refactoring not optimal code, e.g. fo
 So we get these common problems we need to tackle:
 
 - solve the user problems by CREATING & ARRANGING our classes and functions to work together properly 
-- keep the code EXTENDABLE, so we can add new features without the need to change all our code on new requirements 
-- keep the app PERFORMANT, so it will not collapse if we get more and more active users 
+- keep the code FLEXIBLE & EXTENDABLE, so we can add new features without the need to change all our code structure on new requirements 
 
 And we are lucky.
 
@@ -496,11 +495,14 @@ Some nice resources:
 - The very basics of Servers in the web: Proxy vs Reverse Proxy:
 https://www.youtube.com/watch?v=MiqrArNSxSM
 - Backend architecture: Serverless vs Microservices - High Level: https://www.youtube.com/watch?v=EpW28dvm_qo
-- Microservices architecture for complex backends (Martin Fowler): https://www.youtube.com/watch?v=2yko4TbC8cI 
+- Microservices architecture for complex backends - Intro (Martin Fowler): https://www.youtube.com/watch?v=2yko4TbC8cI 
 - Event Driven Architecture (Martin Fowler): https://www.youtube.com/watch?v=STKCRSUsyP0 
 - Automating Software Deployments using "Continuous Delivery" (Martin Fowler): https://www.youtube.com/watch?v=aoMfbgF2D_4
-- IT Architecture (Book): https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C1UG06LG4U7O&keywords=martin+fowler&qid=1650534047&sprefix=martin+fowler%2Caps%2C93&sr=8-1
-- Refactoring (Book): https://www.amazon.de/Refactoring-Improving-Existing-Addison-wesley-Signature/dp/0134757599/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C1UG06LG4U7O&keywords=martin+fowler&qid=1650534047&sprefix=martin+fowler%2Caps%2C93&sr=8-2
+- Microservices architecture step by step (great playlist): https://www.youtube.com/watch?v=D-Hw_CopGDs&list=PLzERW_Obpmv81N-F8yBowb_QHvf9ISG7y
+
+Books: 
+- Enterprise Architecture Patterns: https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C1UG06LG4U7O&keywords=martin+fowler&qid=1650534047&sprefix=martin+fowler%2Caps%2C93&sr=8-1
+- Refactoring: https://www.amazon.de/Refactoring-Improving-Existing-Addison-wesley-Signature/dp/0134757599/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C1UG06LG4U7O&keywords=martin+fowler&qid=1650534047&sprefix=martin+fowler%2Caps%2C93&sr=8-2
 
 
 ### Further Topics
