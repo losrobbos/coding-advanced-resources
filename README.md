@@ -188,6 +188,8 @@ Both of these API patterns do the same thing at the end. But their setup & archi
 
 The difference explained + demo of both: https://www.youtube.com/watch?v=PeAOEAmR0D0
 
+GraphQL solves one fundamental problem of REST though. It ships with a tool which will document the API out of the box. So it makes it way easier for frontend developers to checkout how to retrieve data from the API in the format they need and EXPLORE with requests online easily, before they do the same in code.
+
 Building a REST Api with JS Step by Step (the series is a bit dated in the used syntax, but the concepts are still valid & explained very well):
 https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
 
