@@ -124,9 +124,9 @@ Of course, sometimes also our functions PROCESS the data incorrectly, because we
 
 ### Backend Topics
 
-Before getting into backend development, it makes sense to first WORK with backends from a frontend in order to practice backend REQUESTs first and how to process RESPONSES.
+Before getting into backend development, it makes sense to WORK with backends from a frontend first in order to practice backend REQUESTS and how to process RESPONSES.
 
-Understanding the request / response cycle for frontend / backend interaction and how to process the data in the frontend is a good starting point to approach backend development.
+Understanding the request / response cycle for frontend / backend interaction and how to process the data in the frontend is critical and a good starting point for backend development.
 
 Find here my API connect guide showing how you can:
 - connect to an API using a tool (=REST Client)
