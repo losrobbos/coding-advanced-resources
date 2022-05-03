@@ -124,6 +124,19 @@ Of course, sometimes also our functions PROCESS the data incorrectly, because we
 
 ### Backend Topics
 
+Before getting into backend development, it makes sense to first WORK with backends from a frontend in order to practice backend REQUESTs first and how to process RESPONSES.
+
+Understanding the request / response cycle for frontend / backend interaction and how to process the data in the frontend is a good starting point to approach backend development.
+
+Find here my API connect guide showing how you can:
+- connect to an API using a tool (=REST Client)
+- connect from JavaScript
+
+API Connect Guide: https://github.com/losrobbos/api-connect-guide
+
+
+#### Backend Development with JavaScript 
+
 JavaScript / TypeScript can be used to code backends too.
 
 In case you are not sure so far, if you wanna specialize on frontend or backend development in your career, 
@@ -180,8 +193,6 @@ https://github.com/losrobbos/graphql-server-in-steps
 ## Advanced
 
 ### Fullstack Guides (Frontend, Backend, Deployment )
-
-API Connect Guide: https://github.com/losrobbos/api-connect-guide
 
 Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
 
