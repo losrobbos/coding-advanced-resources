@@ -317,6 +317,10 @@ Testing with JEST - Getting started guide:
 Playlist: 
 https://www.youtube.com/watch?v=7dTTFW7yACQ&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ
 
+#### Testing Antipatterns
+
+Testing can also be overengineered: https://www.youtube.com/watch?v=UWtEVKVPBQ0.
+
 
 ### Game Development
 
@@ -359,6 +363,67 @@ Examples Enable3D (with mouse movement you can change the view):
 - Mini Jump n'Run Game with Perspective Change (using F Keyboard Key): https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
 
 My currently preferred engine is <b>BabylonJS</b>, due to the superb documentation & easy to follow guides.
+
+
+
+### Algorithms & Data Structures 
+
+In the "real world" you sometimes face problems that could not be solved by looping over an array or counting up some numbers.
+
+Sometimes we get a bit more complicated structures, e.g. like this object:
+
+```
+  {
+     "name": "Grandparent", children: [
+        { name: "Sally" },
+        { name: "Harry", children: [
+            { name: "Melinda" }, { name: "Harry Jr" } 
+        ]}, 
+     ]
+  }
+
+```
+
+Here we have a Granparent object with children, where again each child can have children. And so on.
+
+Challenge: How can you now get a FLAT array with the names of ALL members out of this family "structure"?
+
+Okay. You could use simply nested FOR loops to loop through each "level". And add each found item to a new array. That is it. Right?
+
+But then you have to know IN ADVANCE, how deep the family tree goes! 
+
+In case we got three levels down, we need 3 for loops. But on another family we might need to go 8 levels down... and then we need 8 (!) nested for loops!
+
+So how can we write just ONE piece of code, that will collect all the members on all levels independent on how many levels we have here....!
+
+If we just know loops and functions it will not help much.
+
+So we reached a classical "algorithmical challenge". 
+
+And therefore we need to understand a bit more on <b>DATA STRUCTURES</b>. E.g. the one above is a so called TREE. 
+
+And then we need to know a bit on how to work with these data structures, e.g. to search inside them or convert them into something else. 
+
+For that part we need to know about <b>ALGORITHMS</b>.
+
+- Big Overview / Introduction DataStructures: https://www.youtube.com/watch?v=41GSinwoMYA
+- Common Data Structures (non JS): https://www.youtube.com/watch?v=41GSinwoMYA&t=2479s (same video as before, round about 40 min)
+- Common Data Structures (great playlist): https://www.youtube.com/watch?v=Sk3MxEUSwY4&list=PLpWvGP6yhJUhC1SpdouTObbd5yGgV4opL&index=1
+- Algorithms Step by Step (great playList): https://www.youtube.com/watch?v=LuXCJxY7nPE&list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3&index=3
+
+#### Coding Challenges online
+
+- Exercism: https://exercism.org/tracks/javascript/exercises
+- Codewars: https://www.codewars.com/join
+- Edabit: https://edabit.com/challenges/javascript
+- Hackerrank: https://www.hackerrank.com/
+
+#### Courses + Books
+
+- Academind: Datastructures  https://pro.academind.com/p/javascript-datastructures-the-fundamentals
+- Academind: Algorithms (JavaScript): https://pro.academind.com/p/javascript-algorithms-the-fundamentals
+- Book - Algorithms & Data Structures: https://www.amazon.de/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=algorithmen+und+datenstrukturen&qid=1650527384&sr=8-6
+- Book - Algorithmen for Dummies (deutsch) - mit Reallife Bezug und Humor ;): https://www.amazon.de/Algorithmen-Datenstrukturen-Dummies-Andreas-Gogol-D%C3%B6ring/dp/3527714324/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QZM3C9T92QKN&keywords=algorithmen+und+datenstrukturen&qid=1650525285&sprefix=algorithmen+und+datenstrukturen%2Caps%2C87&sr=8-1 
 
 
 ### Design Patterns
@@ -428,67 +493,6 @@ In case you wanna do "all functional" or just mostly functional, it might make s
 
 - Functional Programmers Toolbox: https://www.youtube.com/watch?v=Nrp_LZ-XGsY
 - Function Composition: https://www.youtube.com/watch?v=rCKPgu4DvcE
-
-
-
-### Algorithms & Data Structures 
-
-In the "real world" you sometimes face problems that could not be solved by looping over an array or counting up some numbers.
-
-Sometimes we get a bit more complicated structures, e.g. like this object:
-
-```
-  {
-     "name": "Grandparent", children: [
-        { name: "Sally" },
-        { name: "Harry", children: [
-            { name: "Melinda" }, { name: "Harry Jr" } 
-        ]}, 
-     ]
-  }
-
-```
-
-Here we have a Granparent object with children, where again each child can have children. And so on.
-
-Challenge: How can you now get a FLAT array with the names of ALL members out of this family "structure"?
-
-Okay. You could use simply nested FOR loops to loop through each "level". And add each found item to a new array. That is it. Right?
-
-But then you have to know IN ADVANCE, how deep the family tree goes! 
-
-In case we got three levels down, we need 3 for loops. But on another family we might need to go 8 levels down... and then we need 8 (!) nested for loops!
-
-So how can we write just ONE piece of code, that will collect all the members on all levels independent on how many levels we have here....!
-
-If we just know loops and functions it will not help much.
-
-So we reached a classical "algorithmical challenge". 
-
-And therefore we need to understand a bit more on <b>DATA STRUCTURES</b>. E.g. the one above is a so called TREE. 
-
-And then we need to know a bit on how to work with these data structures, e.g. to search inside them or convert them into something else. 
-
-For that part we need to know about <b>ALGORITHMS</b>.
-
-- Big Overview / Introduction DataStructures: https://www.youtube.com/watch?v=41GSinwoMYA
-- Common Data Structures (non JS): https://www.youtube.com/watch?v=41GSinwoMYA&t=2479s (same video as before, round about 40 min)
-- Common Data Structures (great playlist): https://www.youtube.com/watch?v=Sk3MxEUSwY4&list=PLpWvGP6yhJUhC1SpdouTObbd5yGgV4opL&index=1
-- Algorithms Step by Step (great playList): https://www.youtube.com/watch?v=LuXCJxY7nPE&list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3&index=3
-
-#### Coding Challenges online
-
-- Exercism: https://exercism.org/tracks/javascript/exercises
-- Codewars: https://www.codewars.com/join
-- Edabit: https://edabit.com/challenges/javascript
-- Hackerrank: https://www.hackerrank.com/
-
-#### Courses + Books
-
-- Academind: Datastructures  https://pro.academind.com/p/javascript-datastructures-the-fundamentals
-- Academind: Algorithms (JavaScript): https://pro.academind.com/p/javascript-algorithms-the-fundamentals
-- Book - Algorithms & Data Structures: https://www.amazon.de/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=algorithmen+und+datenstrukturen&qid=1650527384&sr=8-6
-- Book - Algorithmen for Dummies (deutsch) - mit Reallife Bezug und Humor ;): https://www.amazon.de/Algorithmen-Datenstrukturen-Dummies-Andreas-Gogol-D%C3%B6ring/dp/3527714324/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QZM3C9T92QKN&keywords=algorithmen+und+datenstrukturen&qid=1650525285&sprefix=algorithmen+und+datenstrukturen%2Caps%2C87&sr=8-1 
 
 
 
