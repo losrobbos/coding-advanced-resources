@@ -134,6 +134,13 @@ Find here my API connect guide showing how you can:
 
 API Connect Guide: https://github.com/losrobbos/api-connect-guide
 
+For training these two resources are great:
+- JSONPlacerholder API: Pick one of the listed APIs and make calls to it: https://jsonplaceholder.typicode.com/, e.g. https://jsonplaceholder.typicode.com/todos 
+- JSON Server: Setup your OWN API on your PC with zero (!) code: https://github.com/typicode/json-server
+
+Dealing with existing APIs will give you a good understanding of what the USE CASES of APIs are and how to deal with API resources before actually starting your dev journey. 
+
+Enjoy!
 
 #### Backend Development with JavaScript 
 
