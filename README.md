@@ -133,6 +133,8 @@ And you will learn all important backend concepts this way and will be able to a
 
 For the database MongoDB is naturally fitting for JavaScript, because in MongoDB you basically read & write JavaScript data. It will be very familiar.
 
+Most fundamental design decision:
+
 Once you wanna FOCUS on backend development, so you wanna become a specialized backend developer, you will have to learn at least one further language. And additionally at least one SQL database (it doesn't matter much which one, but PostgreSQL or MySQL are natural first choices).
 
 Most used languages for backend development:
@@ -156,6 +158,26 @@ Popular Frameworks:
 
 Caching & Messaging:
 - Redis
+
+
+There are two main approaches how you can build a DATA SERVER (=API) for your frontend.
+
+You can either build a <b>REST</b> or <b>GraphQL</b> API. 
+
+Both of these API patterns do the same thing at the end. But their setup & architecture is pretty different.
+
+The difference explained + demo of both: https://www.youtube.com/watch?v=PeAOEAmR0D0
+
+Building a REST Api with JS Step by Step (the series is a bit dated in the used syntax, but the concepts are still valid & explained very well):
+https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
+
+Building a GraphQL API Step by Step (PLayList): 
+https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
+
+Example GraphQL project developed in branches step by step: 
+https://github.com/losrobbos/graphql-server-in-steps
+
+
 
 ## Advanced
 
