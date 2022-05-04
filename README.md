@@ -199,15 +199,24 @@ https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1
 Example GraphQL project developed in branches step by step: 
 https://github.com/losrobbos/graphql-server-in-steps
 
+## Deployment
+
+Deployment simply means: Bring your app online :)
+
+There are a lot of free providers for deploying your frontend & backend apps.
+
+For frontends e.g. you can use Vercel, which works extremely well for REACT deployments.
+
+For backend deployment Heroku is still one of the most solid options (even though you can also deploy simple backends using Vercel too!)
+
+- Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
+- Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
+
 
 
 ## Advanced
 
-### Fullstack Guides (Frontend, Backend, Deployment )
-
-Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
-
-Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
+### Fullstack Guides (Frontend, Backend )
 
 Databases - Getting started: https://github.com/losrobbos/databases-getting-started
 
