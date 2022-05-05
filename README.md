@@ -334,6 +334,10 @@ Testing can also be overengineered: https://www.youtube.com/watch?v=UWtEVKVPBQ0.
 
 ### Game Development
 
+Game development is a fantastic challenge to get your programming to the next level.
+
+In Game Development also the topics of ALGORITHMs and DESIGN Patterns can be nicely trained (see the following chapters in the guide)
+
 For little Games without "enemies" you can try to use VanillaJS / DOM in the Browser or React.
 
 Examples:
@@ -373,7 +377,6 @@ Examples Enable3D (with mouse movement you can change the view):
 - Mini Jump n'Run Game with Perspective Change (using F Keyboard Key): https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
 
 My currently preferred engine is <b>BabylonJS</b>, due to the superb documentation & easy to follow guides.
-
 
 
 ### Algorithms & Data Structures 
@@ -434,6 +437,7 @@ For that part we need to know about <b>ALGORITHMS</b>.
 - Academind: Algorithms (JavaScript): https://pro.academind.com/p/javascript-algorithms-the-fundamentals
 - Book - Algorithms & Data Structures: https://www.amazon.de/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=algorithmen+und+datenstrukturen&qid=1650527384&sr=8-6
 - Book - Algorithmen for Dummies (deutsch) - mit Reallife Bezug und Humor ;): https://www.amazon.de/Algorithmen-Datenstrukturen-Dummies-Andreas-Gogol-D%C3%B6ring/dp/3527714324/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QZM3C9T92QKN&keywords=algorithmen+und+datenstrukturen&qid=1650525285&sprefix=algorithmen+und+datenstrukturen%2Caps%2C87&sr=8-1 
+
 
 
 ### Design Patterns
