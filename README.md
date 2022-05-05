@@ -49,7 +49,8 @@ These are the most essential JS concepts in order to start with Framework Develo
 - Pizza List with Search & Pizza Cart (2 Pages app): https://pizza-store-two.vercel.app/
 - Mini Blog with Details Page & Comments (2 Pages App): https://blog-fullstack-client.vercel.app/
 - Location on a Map with OpenstreetMap & Leaflet: https://github.com/losrobbos/react-openstreetmap-demo
-- Movies List with signup and login + custom book list (using local storage to store users & books - no backend): https://typescript-movies-demo.vercel.app/ (multiuser app)
+- Apartment Filtering by multiple criteria: https://booking-filter.vercel.app/
+- Movies List with login & user specific contents (using local storage to store users & books - no backend): https://typescript-movies-demo.vercel.app/ (multiuser app)
 - Chat App (duplicate the browser tab to chat): https://rob-chat-sse.vercel.app/
 - Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
 - Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
