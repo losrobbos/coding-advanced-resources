@@ -554,8 +554,8 @@ Some nice resources:
 - Domain Driven Design - Von Reallife Problemen zu Code Architektur (Book): https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?keywords=domain+driven+design&qid=1650536079&sprefix=domain+driven%2Caps%2C143&sr=8-1 
 - The very basics of Servers in the web: Proxy vs Reverse Proxy:
 https://www.youtube.com/watch?v=MiqrArNSxSM
-- Backend architecture: Serverless vs Microservices - High Level: https://www.youtube.com/watch?v=EpW28dvm_qo
 - Microservices architecture for complex backends - Intro (Martin Fowler): https://www.youtube.com/watch?v=2yko4TbC8cI 
+- Serverless vs Microservices - High Level: https://www.youtube.com/watch?v=EpW28dvm_qo
 - Event Driven Architecture (Martin Fowler): https://www.youtube.com/watch?v=STKCRSUsyP0 
 - Automating Software Deployments using "Continuous Delivery" (Martin Fowler): https://www.youtube.com/watch?v=aoMfbgF2D_4
 - Microservices architecture step by step (great playlist): https://www.youtube.com/watch?v=D-Hw_CopGDs&list=PLzERW_Obpmv81N-F8yBowb_QHvf9ISG7y
