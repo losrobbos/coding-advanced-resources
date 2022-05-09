@@ -59,6 +59,19 @@ These are the most essential JS concepts in order to start with Framework Develo
 
 Most projects these days get developed in TEAMS.
 
+Developing in teams is fundamentally different compared to working alone. A lot more things need to be considered before even starting (!) coding, otherwise you will probably produce a lot of conflicts :)
+
+There are some fundamental decisions to take upfront:
+- How to align all team members to a certain DESIGN?
+- How to create & split tasks in the team?
+- How to use Git & GitHub in a bring our features together?
+- How to setup simple rules for code formatting in order to prevent accidental file changes & merge conflicts?
+
+And finally, for the role of the team lead: How to fill that role?
+
+There are tons on books and articles on the subject of team leading, so this is pretty much out of scope here :)
+
+But this video here nicely summarized my favorite "attitude" how to interpret the leading role of a team: https://www.youtube.com/watch?v=jMpCF0Z623s
 
 #### Design Mockup
 
