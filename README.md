@@ -130,7 +130,17 @@ But most likely it will not be necessary to have JIRA experience to get your fir
 
 #### Scheduling Meetings
 
-In company projects the so called "Daily" is a common term. A short meeting in the morning, where we discuss our current status. In case of a finished feature what we want to focus on next. And discuss any issues we have, usually in a team we get fresh ideas on that that we coul not come up alone.
+In company projects the so called "Daily" is a common term. A short meeting in the morning, where we discuss our current status. 
+
+In case of a finished feature we settle what we want to focus on next. And discuss any issues we have, both in code and in understanding (!) of tasks. Usually in a team we get fresh ideas on that that we coul not come up alone.
+
+Especially the point of "understanding" a task is super important. Very often team members shy away from getting clarification on something they do not fully understand in an assigned task, to not look "dumb" or "weak".
+
+But that false "pride" will sure-fire ALWAYS shoot you in the foot at some point.
+
+I always prefer (!) to torture people with clarification questions on given tasks, in order to get the best common understanding possible. Because I know from so many team projects, how much this is necessary. 
+
+We do not need to discuss the nitty gritty implementation detail on code level. But on high level it should be clear how things in the app should behave, especially from a user perspective. If we understand the user perspective it will also help a lot when coding the feature.
 
 Additional to the Daily Progress Meeting you could arrange another daily or bi-weekly "merge meeting" where we merge out feature branches together and also solve all the appearing conflicts together.
 
