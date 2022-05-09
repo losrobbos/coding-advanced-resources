@@ -76,13 +76,19 @@ But this video here nicely summarizes my own attitude how to interpret the leadi
 
 #### Design Mockup
 
-In order to design an app with multiple pages, you usually create a MOCKUP, so a first visual draft of ideally all your planned app pages / screens, maybe even adding the possibility to jump around in that dragt by clicking links & buttons.
+In order to design an app with multiple pages, you usually create a MOCKUP.
+
+A mockup is a first visual draft of ideally all your planned app pages / screens, maybe even adding the possibility to jump around in that draft by clicking links & buttons.
 
 Especially in team development a mockup is very necessary to create a COMMON visual understanding of the app (and also the needed data and flow of data!)  and agree on basic design choices, like used colors & fonts.
 
 A free, pretty famous & solid tool for that job is Figma. https://www.youtube.com/watch?v=eZJOSK4gXl4
 
 But of course there are several other tools available to do this, like Adobe XD, Balsamiq or others. Pick your prefered one.
+
+A mockup does not need to stay FIXED, of course, it can still be adapted throughout the project. But ideally you still spend quite some time on discussing the fundamental design principles UPFRONT of coding :)
+
+Take your time on this and do not rush it through within one day. It will pay of significantly later on.
 
 Some terminology:
 
