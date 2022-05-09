@@ -169,6 +169,22 @@ Setup and enjoy Team Development without worrying all the time about your next G
 
 https://github.com/losrobbos/github-flow-guide
 
+#### Styling approach
+
+One of the most fundamental decisions in the frontend tech stack is which library is gonna be used for styling.
+
+There are first of all these general approaches:
+
+- Raw styling using CSS or SCSS
+- Styling using "utility classes" only: The most famous library for this is <b>Tailwind</b> 
+- Using a <b>Component library</b> for ready to use "plug & play" components with a base style: Like Material-UI, Reactstrap or React-Bootstrap
+- Using a library that allows us to directly write SCSS in components. Styled Components: https://styled-components.com/docs/basics
+
+Picking one approachs that fits all opinions & wishes is very hard to achieve, especially if we do not know these four approaches too well. 
+
+Ideally explore all options on one day together in the team: e.g. raw SCSS, SCSS in components using Styled Components and one component library like Material-UI.
+
+Afterwards it will be much easier to make a decision in the team. We will likely have to live with this decision for the whole team project, so do not rush the decision and rather experiment one day more :)
 
 ### Material UI
 
