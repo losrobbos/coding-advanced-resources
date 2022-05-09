@@ -90,14 +90,6 @@ Some terminology:
 - Mockup: A wireframe + added colors, fonts and images to already create a real page feeling
 - Prototype: An already ACTIONABLE version of the mockup where you can e.g. click on navigation links to get to other pages. Prototypes can either be just a basic, "clickable" design or already contain code for basic interaction.
 
-#### Git Development in a team
-
-A guide with a real life, practical, hands-on process including all Git commands.
-
-Setup and enjoy Team Development without worrying all the time about your next Git merge ;)
-
-https://github.com/losrobbos/github-flow-guide
-
 #### Planning & Splitting tasks in a team
 
 Planning of tasks nowadays is usally done using a <b>TICKET system</b>.
@@ -136,6 +128,14 @@ In order to prepare for a TEAM project it is absolutely essential to have at lea
 Configure it just ONCE at the beginning of your project... and then forget about it and code happily ;)
 
 Mini Guide to get going: https://github.com/losrobbos/code-formatting-and-linting
+
+#### Git Development in a team
+
+A guide with a real life, practical, hands-on process including all Git commands.
+
+Setup and enjoy Team Development without worrying all the time about your next Git merge ;)
+
+https://github.com/losrobbos/github-flow-guide
 
 
 ### Material UI
