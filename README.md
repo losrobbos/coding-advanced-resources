@@ -134,9 +134,9 @@ In company projects the so called "Daily" is a common term. A short meeting in t
 
 In case of a finished feature we settle what we want to focus on next. And discuss any issues we have, both in code and in understanding (!) of tasks. Usually in a team we get fresh ideas on solving issues we would not have come up with alone.
 
-Especially the point of "understanding" a task is super important. Very often team members shy away from getting clarification on something they do not fully understand in an assigned task to prevent looking "dumb" or "weak".
+Especially the point of <b>understanding a task</b> is super important. Very often team members shy away from getting clarification on something they do not fully understand in an assigned task to prevent looking "dumb" or "weak".
 
-But that false "pride" will sure-fire shoot you in the foot at some point of the project.
+But that "false pride" will sure-fire shoot you in the foot at some point of the project.
 
 I love to torture people with clarification questions on given tasks, in order to get the best common understanding possible. Because I know from so many team projects, how much this is necessary. 
 
