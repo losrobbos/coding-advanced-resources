@@ -66,6 +66,7 @@ There are some fundamental decisions to take upfront:
 - How to create & split <b>tasks</b> in the team?
 - How to use <b>Git</b> & GitHub in the team to bring our features together?
 - How to setup simple rules for code <b>formatting</b> in order to prevent accidental file changes & merge conflicts?
+- Assure usage of <b>same versions</b> of libraries for the whole team (e.g. no mix of React 17 and 18, Material UI 4 and 5, Node 12 and 16, etc)
 
 And finally, for the role of the team lead: How to fill that role?
 
