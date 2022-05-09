@@ -59,7 +59,7 @@ These are the most essential JS concepts in order to start with Framework Develo
 
 Most projects these days get developed in TEAMS.
 
-Developing in teams is fundamentally different compared to working alone. A lot more things need to be considered before even starting (!) coding, otherwise you will probably produce a lot of conflicts :)
+Developing in teams is fundamentally different compared to working alone. A lot more things need to be considered before even starting (!) coding, otherwise you will probably produce a lot of conflicts.
 
 There are some fundamental decisions to take upfront:
 - How to <b>align</b> all team members to a certain design?
@@ -99,7 +99,7 @@ Some terminology:
 
 #### Planning & Splitting tasks in a team
 
-Planning of tasks nowadays is usally done using a <b>TICKET system</b>.
+Planning of tasks nowadays is usally done using a <b>Ticket system</b>.
 
 A ticket system simply collects TASKS - both urgent and more long term - from multiple sources (customer wishes / feedback, internal requirements).
 
@@ -164,7 +164,7 @@ There are first of all these general approaches:
 - Using a <b>Component library</b> for ready to use "plug & play" components with a base style: Like Material-UI, Reactstrap or React-Bootstrap
 - Using a library that allows us to directly write SCSS in components. Styled Components: https://styled-components.com/docs/basics
 
-Picking one approachs that fits all opinions & wishes is very hard to achieve, especially if we do not know these four approaches too well. 
+Picking one approach that fits all opinions & wishes is very hard to achieve, especially if we do not know these four approaches too well + usually team members defend their favorite library "religiously" :)
 
 Ideally explore all options on one day together in the team: e.g. raw SCSS, SCSS in components using Styled Components and one component library like Material-UI.
 
