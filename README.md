@@ -71,7 +71,7 @@ And finally, for the role of the team lead: How to fill that role?
 
 There are tons on books and articles on the subject of team leading, so this is pretty much out of scope here :)
 
-But this video here nicely summarized my favorite "attitude" how to interpret the leading role of a team: https://www.youtube.com/watch?v=jMpCF0Z623s
+But this video here nicely summarizes my own attitude how to interpret the leading role of a team: https://www.youtube.com/watch?v=jMpCF0Z623s
 
 #### Design Mockup
 
