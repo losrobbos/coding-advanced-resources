@@ -55,8 +55,28 @@ These are the most essential JS concepts in order to start with Framework Develo
 - Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
 - Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
 
+### Team Development
 
-### Git Development in a team
+Most projects these days get developed in TEAMS.
+
+
+#### Design Mockup
+
+In order to design an app with multiple pages, you usually create a MOCKUP, so a first visual draft of ideally all your planned app pages / screens, maybe even adding the possibility to jump around in that dragt by clicking links & buttons.
+
+Especially in team development a mockup is very necessary to create a COMMON visual understanding of the app (and also the needed data and flow of data!)  and agree on basic design choices, like used colors & fonts.
+
+A free, pretty famous & solid tool for that job is Figma. https://www.youtube.com/watch?v=eZJOSK4gXl4
+
+But of course there are several other tools available to do this, like Adobe XD, Balsamiq or others. Pick your prefered one.
+
+Some terminology:
+
+- Wireframe: Just a very basics sketch of your screens, just sketching the LAYOUT
+- Mockup: A wireframe + added colors, fonts and images to already create a real page feeling
+- Prototype: An already ACTIONABLE version of the mockup where you can e.g. click on navigation links to get to other pages. Prototypes can either be just a basic, "clickable" design or already contain code for basic interaction.
+
+#### Git Development in a team
 
 A guide with a real life, practical, hands-on process including all Git commands.
 
@@ -64,8 +84,34 @@ Setup and enjoy Team Development without worrying all the time about your next G
 
 https://github.com/losrobbos/github-flow-guide
 
+#### Planning & Splitting tasks in a team
 
-### Code Formatting & Linting
+Planning of tasks nowadays is usally done using a <b>TICKET system</b>.
+
+A ticket system simply collects TASKS - both urgent and more long term - from multiple sources (customer wishes / feedback, internal requirements).
+
+In order to get a bit familiar on basic task management terminology, you might check out a short video first: https://www.youtube.com/watch?v=rIaz-l1Kf8w
+
+A famous tool to get started with ticketing for a small project is Trello: https://trello.com/
+
+Trello is really nice to quickly get started with basic ticket management terminology like Kanban.
+
+In case you manage your code on GitHub you can also use GitHubs built in kind of "Trello": <b>Github Projects</b>.
+
+Here you can link tasks in a repository to a KANBAN board and can automate the movement of the tickets.
+
+Nice Step by Step Playlist on GitHub projects: 
+https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu
+
+Once you do work in COMPANY TEAMS, you will find out, that <b>JIRA</b> is the most often used tool. 
+
+JIRA is practially an industry standard and universally used in Team projects. It is slightly more complex that GitHub projects. But once you feel fine with GitHub Projects, you will also be quickly able to work with JIRA in a company,
+
+You can also try JIRA for free: 
+
+https://www.atlassian.com/de/software/jira
+
+#### Code Formatting & Linting
 
 In order to prepare for a TEAM project it is absolutely essential to have at least a basic understanding of the concepts of code formatting & linting.
 
@@ -121,6 +167,7 @@ Of course, sometimes also our functions PROCESS the data incorrectly, because we
 - TypeScript Intro - PlayList: https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PLzAGFfNxKFuZgoZJPAfW_DeA2guNk849V
 
 - React with TypeScript - Playlist: https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
+
 
 
 ### Backend Topics
