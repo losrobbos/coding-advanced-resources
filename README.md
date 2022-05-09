@@ -63,9 +63,9 @@ Developing in teams is fundamentally different compared to working alone. A lot 
 
 There are some fundamental decisions to take upfront:
 - How to <b>align</b> all team members to a certain design?
-- How to create & split tasks in the team?
-- How to use Git & GitHub in the team to bring our features together?
-- How to setup simple rules for code formatting in order to prevent accidental file changes & merge conflicts?
+- How to create & split <b>tasks</b> in the team?
+- How to use <b>Git</b> & GitHub in the team to bring our features together?
+- How to setup simple rules for code <b>formatting</b> in order to prevent accidental file changes & merge conflicts?
 
 And finally, for the role of the team lead: How to fill that role?
 
