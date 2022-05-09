@@ -64,6 +64,7 @@ Developing in teams is fundamentally different compared to working alone. A lot 
 There are some fundamental decisions to take upfront:
 - How to <b>align</b> all team members to a certain design?
 - How to create & split <b>tasks</b> in the team?
+- How to schedule meetings to track progress & discuss issues? Daily? Two times a day? Once a week? Or pair programming the whole day?
 - How to use <b>Git</b> & GitHub in the team to bring our features together?
 - How to setup simple rules for code <b>formatting</b> in order to prevent accidental file changes & merge conflicts?
 - Assure usage of <b>same versions</b> of libraries for the whole team (e.g. no mix of React 17 and 18, Material UI 4 and 5, Node 12 and 16, etc)
@@ -126,6 +127,21 @@ You can also try out JIRA for free if you want:
 https://www.atlassian.com/de/software/jira
 
 But most likely it will not be necessary to have JIRA experience to get your first project position.
+
+#### Scheduling Meetings
+
+In company projects the so called "Daily" is a common term. A short meeting in the morning, where we discuss our current status. In case of a finished feature what we want to focus on next. And discuss any issues we have, usually in a team we get fresh ideas on that that we coul not come up alone.
+
+Additional to the Daily Progress Meeting you could arrange another daily or bi-weekly "merge meeting" where we merge out feature branches together and also solve all the appearing conflicts together.
+
+Dealing with code merge conflicts can be a very <b>intimidating</b> task and usually also needs some <b>clarification</b> between at least two members in the team on how to deal with the conflicting code parts. 
+
+Therefore in the beginning of a project it is highly recommended to solve conflicting code parts together to prevent any nervous breakdowns :)
+
+Lastly there is the possibility of "Pair Programming" where you code in pairs or even as a whole team together in a video session. 
+
+That can make a lot of sense if people work toegther on the same page or feature (e.g. the frontend & backend part of the login page) 
+
 
 #### Code Formatting & Linting
 
