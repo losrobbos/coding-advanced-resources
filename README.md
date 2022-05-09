@@ -153,22 +153,6 @@ Lastly there is the possibility of "Pair Programming" where you code in pairs or
 That can make a lot of sense if people work toegther on the same page or feature (e.g. the frontend & backend part of the login page) 
 
 
-#### Code Formatting & Linting
-
-In order to prepare for a TEAM project it is absolutely essential to have at least a basic understanding of the concepts of code formatting & linting.
-
-Configure it just ONCE at the beginning of your project... and then forget about it and code happily ;)
-
-Mini Guide to get going: https://github.com/losrobbos/code-formatting-and-linting
-
-#### Git Development in a team
-
-A guide with a real life, practical, hands-on process including all Git commands.
-
-Setup and enjoy Team Development without worrying all the time about your next Git merge ;)
-
-https://github.com/losrobbos/github-flow-guide
-
 #### Styling approach
 
 One of the most fundamental decisions in the frontend tech stack is which library is gonna be used for styling.
@@ -185,6 +169,23 @@ Picking one approachs that fits all opinions & wishes is very hard to achieve, e
 Ideally explore all options on one day together in the team: e.g. raw SCSS, SCSS in components using Styled Components and one component library like Material-UI.
 
 Afterwards it will be much easier to make a decision in the team. We will likely have to live with this decision for the whole team project, so do not rush the decision and rather experiment one day more :)
+
+#### Code Formatting & Linting
+
+In order to prepare for a TEAM project it is absolutely essential to have at least a basic understanding of the concepts of code formatting & linting.
+
+Configure it just ONCE at the beginning of your project... and then forget about it and code happily ;)
+
+Mini Guide to get going: https://github.com/losrobbos/code-formatting-and-linting
+
+#### Git Development in a team
+
+A guide with a real life, practical, hands-on process including all Git commands.
+
+Setup and enjoy Team Development without worrying all the time about your next Git merge ;)
+
+https://github.com/losrobbos/github-flow-guide
+
 
 ### Material UI
 
