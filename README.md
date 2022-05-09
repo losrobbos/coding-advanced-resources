@@ -160,7 +160,7 @@ One of the most fundamental decisions in the frontend tech stack is which librar
 There are first of all these general approaches:
 
 - Raw styling using CSS or SCSS
-- Styling using "utility classes" only: The most famous library for this is <b>Tailwind</b> 
+- Styling using pre-made CSS <b>Utility classes</b>: The most famous library for this is <b>Tailwind</b> 
 - Using a <b>Component library</b> for ready to use "plug & play" components with a base style: Like Material-UI, Reactstrap or React-Bootstrap
 - Using a library that allows us to directly write SCSS in components. Styled Components: https://styled-components.com/docs/basics
 
