@@ -132,7 +132,7 @@ But most likely it will not be necessary to have JIRA experience to get your fir
 
 In company projects the so called "Daily" is a common term. A short meeting in the morning, where we discuss our current status. 
 
-In case of a finished feature we settle what we want to focus on next. And discuss any issues we have, both in code and in understanding (!) of tasks. Usually in a team we get fresh ideas on that that we coul not come up alone.
+In case of a finished feature we settle what we want to focus on next. And discuss any issues we have, both in code and in understanding (!) of tasks. Usually in a team we get fresh ideas on solving issues we would not have come up with alone.
 
 Especially the point of "understanding" a task is super important. Very often team members shy away from getting clarification on something they do not fully understand in an assigned task to prevent looking "dumb" or "weak".
 
