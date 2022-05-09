@@ -117,13 +117,17 @@ Here you can link tasks in a repository to a KANBAN board and can automate the m
 Nice Step by Step Playlist on GitHub projects: 
 https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu
 
-Once you do work in COMPANY TEAMS, you will find out, that <b>JIRA</b> is the most often used tool. 
+Once you do work in <b>Company teams</b>, you will find out, that <b>JIRA</b> is the most often used tool. 
 
-JIRA is practially an industry standard and universally used in Team projects. It is slightly more complex that GitHub projects. But once you feel fine with GitHub Projects, you will also be quickly able to work with JIRA in a company,
+JIRA is practially an industry standard and universally used in Team projects. 
 
-You can also try JIRA for free: 
+It is slightly more complex than GitHub projects. But once you feel fine with GitHub Projects, you will also be quickly able to work with JIRA in a company.
+
+You can also try out JIRA for free if you want: 
 
 https://www.atlassian.com/de/software/jira
+
+But most likely it will not be necessary to have JIRA experience to get your first project position.
 
 #### Code Formatting & Linting
 
