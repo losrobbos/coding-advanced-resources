@@ -619,12 +619,6 @@ Playlist - Design Patterns - some famous "Gang of Four" design patterns + the SO
 
 https://www.youtube.com/watch?v=BWprw8UHIzA&list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f
 
-There is a famous design technique - that has shaped the terminology in the whole IT industry - called <b>Domain Driven Design</b> (DDD).
-
-But it is not just a technique, but also kind of an "attitude" on how to approach code design by trying to align the whole team processes and code to our real life problem as closely as possible.
-
-Domain Driven Design - From real life problems to Code (Book): https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?keywords=domain+driven+design&qid=1650536079&sprefix=domain+driven%2Caps%2C143&sr=8-1 
-
 
 #### Pure Functional Programming (no OOP)
 
@@ -632,6 +626,18 @@ In case you wanna do "all functional" or just mostly functional, it might make s
 
 - Functional Programmers Toolbox: https://www.youtube.com/watch?v=Nrp_LZ-XGsY
 - Function Composition: https://www.youtube.com/watch?v=rCKPgu4DvcE
+
+
+#### Domain Driven Design
+
+There is one philosophy that goes a little bit beyond that "object oriented vs functional" approach.
+
+There is a famous design technique - that has shaped a lot of code terminology in the whole IT industry - called <b>Domain Driven Design</b> (DDD).
+
+It is not just a technique, but also kind of an "attitude" on how to approach code design by trying to align the whole team processes and code to our real life problem as closely as possible.
+
+Domain Driven Design - From real life problems to Code (Book): https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?keywords=domain+driven+design&qid=1650536079&sprefix=domain+driven%2Caps%2C143&sr=8-1 
+
 
 
 
