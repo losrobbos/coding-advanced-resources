@@ -144,7 +144,7 @@ That "false pride" - in both cases - will sure-fire shoot you in the foot at som
 
 I love to torture people with clarification questions on given tasks, in order to get the best common understanding possible. Because I know from so many team projects, how much this is necessary. 
 
-We do not need to discuss the nitty gritty implementation detail on code level. But on high level it should be clear how things in the app should behave, especially from a user perspective. If we understand the user perspective it will also help a lot when coding the feature.
+Most of the time we do not need to discuss the nitty gritty implementation details on code level). But on high level it should be clear how things in the app should behave, especially from a user perspective. If we understand the user perspective it will also help a lot when coding the feature.
 
 Additional to the Daily Progress Meeting you could arrange another daily or bi-weekly "merge meeting" where we merge out feature branches together and also solve all the appearing conflicts together.
 
