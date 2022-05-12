@@ -312,10 +312,13 @@ GraphQL solves one fundamental problem of REST though. It ships with a tool whic
 Building a REST Api with JS Step by Step (the series is a bit dated in the used syntax, but the concepts are still valid & explained very well):
 https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
 
+- Example REST API snippets for getting started:
+https://github.com/losrobbos/express-snippets
+
 Building a GraphQL API Step by Step (PLayList): 
 https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
 
-Example GraphQL project developed in branches step by step: 
+- Example GraphQL project developed in branches step by step: 
 https://github.com/losrobbos/graphql-server-in-steps
 
 ## Deployment
