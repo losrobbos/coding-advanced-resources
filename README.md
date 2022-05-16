@@ -397,19 +397,27 @@ https://github.com/losrobbos/react-native-guide
 
 Let's say you invested dozens of hours into this nice feature.
 
-Your code works "fine" at the end. The feature works in the browser.
+Your code works fine. The feature works in the browser.
 
-You pushed it. And it gets released. The world is fine.
+You pushed it. It gets deployed. And it works.
 
-But then you realize: DAMN! This code is a bit messy. It works. But probably it needs quite some restructuring and polishing.
+The world is fine.
+
+But then you realize: DAMN! This code is a bit messy. 
+
+It works. But probably it needs quite some restructuring and polishing.
 
 But if we are working in a TEAM PROJECT we could get into a serious problem now.
 
-Our nice feature is important. In the meantime others have already built up new features based on your feature! So work of others DEPENDS on that feature to be working like expected.
+Our feature is important. 
 
-So IF we change and re-organize that (the term for this is REFACTORING), we must make sure, that the OUTPUT of our code after that refactoring is the same as before!
+In the meantime others have already built up new features BASED on your feature! 
 
-So all code which DEPENDS on that feature (either code from you or your team mates), will still work as before too!
+So work of others now DEPENDS on that feature to be working like expected.
+
+So IF we change and re-organize the code of that feature (the term for this is REFACTORING), we must make sure, that the OUTPUT of our code after that refactoring is the same as before!
+
+So all code which depends on that feature (either code from you or your team mates), will still work as before too!
 
 In order to give you safety for your refactoring, you need to ASSURE a certain output of your function(s).
 
