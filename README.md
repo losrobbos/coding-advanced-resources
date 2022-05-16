@@ -441,8 +441,15 @@ That is the basic use case for testing:
 
 <b>ASSURING functionality, even after (a lot of) changes in the code structure</b>
 
+A famous approach in the software industry is therefore the so called TEST DRIVEN DEVELOPMENT, short <b>TDD</b>.
 
-Testing Concepts - a nice introduction:
+It is a process to - more or less - ENFORE testing of your application code right during development, as we code the feature.
+
+We distinguish between writing a test AFTER we coded a feature or BEFORE we even start coding a feature.
+
+The latter approach is called <b>Test first</b>. It is the strict mode of enforcing testing. This way you reach a high <b>test coverage</b> of your functionality.
+
+Testing Concepts & types of tests - a nice introduction:
 - https://www.youtube.com/watch?v=r9HdJ8P6GQI
 
 
