@@ -559,6 +559,7 @@ For that part we need to know about <b>ALGORITHMS</b>.
 - Common Data Structures (non JS): https://www.youtube.com/watch?v=41GSinwoMYA&t=2479s (same video as before, round about 40 min)
 - Common Data Structures (great playlist): https://www.youtube.com/watch?v=Sk3MxEUSwY4&list=PLpWvGP6yhJUhC1SpdouTObbd5yGgV4opL&index=1
 - Algorithms Step by Step (great playList): https://www.youtube.com/watch?v=LuXCJxY7nPE&list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3&index=3
+- Algorithm Paradigms / Techniques: https://www.youtube.com/watch?v=gi4YhLM2QS0&list=PLFdAYMIVJQHOvoD4gQz7CwEhK3pAXWLdX&index=1
 
 #### Coding Challenges online
 
