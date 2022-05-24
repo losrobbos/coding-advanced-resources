@@ -190,6 +190,30 @@ Setup and enjoy Team Development without worrying all the time about your next G
 
 https://github.com/losrobbos/github-flow-guide
 
+#### Git Commits & Aliase
+
+Wie schreibe ich Commit Messages in einem echten Company-Projekt? 
+
+Ein üblicher Standard ist die <b>Semantic Commit Message</b>
+
+Semantic Commit Message Beispiele (fix, feat, docs, chore, etc...):
+https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716 
+
+Beispiel Semantic Commit Messages im VueJS Projekt:
+https://github.com/vuejs/vue/commits/dev
+
+Die 3 Wege, einen Commit mit Message zu schreiben:
+- `git commit` (öffnet Editor)
+- `git commit -m "Subject Message"` (nur Subject / Oneliner)
+- `git commit -m "Subject Message" -m "Body Message` (Subject und Body -> optionale Description)
+
+Git Log
+- alle Commits nur mit Message ohne Details anzeigen: `git log --oneline`
+
+Git Aliases setzen (für Git Commands, die man sehr häufig wiederholt):
+https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+
+
 
 ### Material UI
 
