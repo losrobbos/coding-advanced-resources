@@ -9,11 +9,11 @@ Following are some fields where you could go next (In case you do not have other
 - Fullstack concepts (e.g. file upload)
 - Smartphone development with React Native
 - Fullstack development with NextJS
-- Test Driven Development (TDD)
+- [Test Driven Development (TDD)](https://github.com/losrobbos/coding-advanced-resources/edit/main/README.md#test-driven-development)
 - Design Patterns
-- Algorithms & Data Structures
+- [Algorithms & Data Structures](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#algorithms--data-structures)
+- [Game Development](https://github.com/losrobbos/coding-advanced-resources/edit/main/README.md#game-development)
 - Application Architecture
-- Game Development
 
 Don't get overwhelmed by this huge amount of topics. 
 
