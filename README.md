@@ -6,6 +6,7 @@ Following are some fields where you could go next (In case you do not have other
 
 - React & React TypeScript
 - [Team Development process](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#team-development)
+- [Backend Development](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#backend-topics)
 - Fullstack concepts (e.g. file upload)
 - Smartphone development with React Native
 - Fullstack development with NextJS
@@ -492,53 +493,6 @@ https://www.youtube.com/watch?v=7dTTFW7yACQ&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dz
 Testing can also be overengineered: https://www.youtube.com/watch?v=UWtEVKVPBQ0.
 
 
-### Game Development
-
-Game development is a fantastic challenge to get your programming to the next level.
-
-In Game Development also the topics of ALGORITHMs and DESIGN Patterns can be nicely trained (see the following chapters in the guide)
-
-For little Games without "enemies" you can try to use VanillaJS / DOM in the Browser or React.
-
-Examples:
-
-- Snake: https://eddornelas.github.io/Snake-Game-Demo/
-- Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
-- Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
-
-For a little more interactivity (e.g. collisions with moving items or enemies) it will be a lot easier to use a game library (often called "game engine")
-
-
-#### 2D Game Engines
-
-- Phaser: https://phaser.io/examples
-- Kaboom: https://kaboomjs.com/
-
-Examples:
-
-- Mario Game (Kaboom): https://leongeldsch.github.io/mario/
-
-#### 3D Game Engines
-
-- BabylonJS: https://doc.babylonjs.com/start
-  - Babylon has a great Step by Step guide with a playground, where you can test things out easily: https://doc.babylonjs.com/
-- Enable 3D: https://enable3d.io/docs.html
-  - Enable 3D Examples: https://enable3d.io/examples.html
-
-Babylon Examples: 
-  - https://www.babylonjs.com/games/
-
-Examples Enable3D (with mouse movement you can change the view):
-- 3D World: https://enable3d.io/examples/medieval-fantasy-book-standalone.html
-- Water Waves Effect: https://enable3d.io/examples/water.html
-- Physics with Ball: https://enable3d.io/examples/slope-angle-and-moving-platform.html
-- Wall Crash: https://enable3d.io/examples/wrecking-ball-with-metal-chain.html
-- Ego Shooter: https://enable3d.io/examples/first-person-shooter.html
-- Mini Jump n'Run Game with Perspective Change (using F Keyboard Key): https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
-
-My currently preferred engine is <b>BabylonJS</b>, due to the superb documentation & easy to follow guides.
-
-
 ### Algorithms & Data Structures 
 
 In the "real world" you sometimes face problems that could not be solved by looping over an array or counting up some numbers.
@@ -603,6 +557,53 @@ For that part we need to know about <b>ALGORITHMS</b>.
 - Book - Algorithms & Data Structures: https://www.amazon.de/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=algorithmen+und+datenstrukturen&qid=1650527384&sr=8-6
 - Book - Algorithmen for Dummies (deutsch) - mit Reallife Bezug und Humor ;): https://www.amazon.de/Algorithmen-Datenstrukturen-Dummies-Andreas-Gogol-D%C3%B6ring/dp/3527714324/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QZM3C9T92QKN&keywords=algorithmen+und+datenstrukturen&qid=1650525285&sprefix=algorithmen+und+datenstrukturen%2Caps%2C87&sr=8-1 
 
+
+
+### Game Development
+
+Game development is a fantastic challenge to get your programming to the next level.
+
+In Game Development also the topics of ALGORITHMs and DESIGN Patterns can be nicely trained (see the following chapters in the guide)
+
+For little Games without "enemies" you can try to use VanillaJS / DOM in the Browser or React.
+
+Examples:
+
+- Snake: https://eddornelas.github.io/Snake-Game-Demo/
+- Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
+- Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
+
+For a little more interactivity (e.g. collisions with moving items or enemies) it will be a lot easier to use a game library (often called "game engine")
+
+
+#### 2D Game Engines
+
+- Phaser: https://phaser.io/examples
+- Kaboom: https://kaboomjs.com/
+
+Examples:
+
+- Mario Game (Kaboom): https://leongeldsch.github.io/mario/
+
+#### 3D Game Engines
+
+- BabylonJS: https://doc.babylonjs.com/start
+  - Babylon has a great Step by Step guide with a playground, where you can test things out easily: https://doc.babylonjs.com/
+- Enable 3D: https://enable3d.io/docs.html
+  - Enable 3D Examples: https://enable3d.io/examples.html
+
+Babylon Examples: 
+  - https://www.babylonjs.com/games/
+
+Examples Enable3D (with mouse movement you can change the view):
+- 3D World: https://enable3d.io/examples/medieval-fantasy-book-standalone.html
+- Water Waves Effect: https://enable3d.io/examples/water.html
+- Physics with Ball: https://enable3d.io/examples/slope-angle-and-moving-platform.html
+- Wall Crash: https://enable3d.io/examples/wrecking-ball-with-metal-chain.html
+- Ego Shooter: https://enable3d.io/examples/first-person-shooter.html
+- Mini Jump n'Run Game with Perspective Change (using F Keyboard Key): https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
+
+My currently preferred engine is <b>BabylonJS</b>, due to the superb documentation & easy to follow guides.
 
 
 ### Design Patterns
