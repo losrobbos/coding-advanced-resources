@@ -5,15 +5,15 @@ Please find here some of my recommended resources for continuing your coding jou
 Following are some fields where you could go next (In case you do not have other plans already ;)):
 
 - React & React TypeScript
-- Team Development process
+- [Team Development process](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#team-development)
 - Fullstack concepts (e.g. file upload)
 - Smartphone development with React Native
 - Fullstack development with NextJS
 - [Test Driven Development (TDD)](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#test-driven-development)
-- Design Patterns
+- [Design Patterns](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#design-patterns)
 - [Algorithms & Data Structures](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#algorithms--data-structures)
 - [Game Development](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#game-development)
-- Application Architecture
+- [Application Architecture](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#architecture)
 
 Don't get overwhelmed by this huge amount of topics. 
 
