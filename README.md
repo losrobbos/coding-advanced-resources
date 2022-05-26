@@ -108,11 +108,11 @@ In order to get a bit familiar on basic task management terminology, you might c
 
 A famous tool to get started with ticketing for a small project is Trello: https://trello.com/
 
-Trello is really nice to quickly get started with basic ticket management terminology like Kanban.
+Trello is really nice to quickly get started with basic ticket management terminology like <b>Kanban</b>.
 
 In case you manage your code on GitHub you can also use GitHubs built-in "Trello" board: <b>Github Projects</b>.
 
-Here you can link tasks in a repository to a KANBAN board and can automate the movement of the tickets.
+Here you can link tasks in a repository to a Kanban board and can automate the movement of the tickets.
 
 Nice Step by Step Playlist on GitHub projects: 
 https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu
