@@ -110,14 +110,14 @@ A famous tool to get started with ticketing for a small project is Trello: https
 
 Trello is really nice to quickly get started with basic ticket management terminology like Kanban.
 
-In case you manage your code on GitHub you can also use GitHubs built in kind of "Trello": <b>Github Projects</b>.
+In case you manage your code on GitHub you can also use GitHubs built-in "Trello" board: <b>Github Projects</b>.
 
 Here you can link tasks in a repository to a KANBAN board and can automate the movement of the tickets.
 
 Nice Step by Step Playlist on GitHub projects: 
 https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu
 
-Once you do work in <b>Company teams</b>, you will find out, that <b>JIRA</b> is the most often used tool. 
+Once you do work in <b>Company teams</b>, you will find out that <b>JIRA</b> is the most often used tool. 
 
 JIRA is practially an industry standard and universally used in Team projects. 
 
@@ -135,19 +135,25 @@ In company projects the so called "Daily" is a common term.
 
 Daily = A short meeting in the morning, where we discuss our current status. 
 
-In case of a finished feature we settle what we want to focus on next. And discuss any issues we have, both in code and in understanding (!) of tasks. Usually in a team we get fresh ideas on solving issues we would not have come up with alone.
+In case of a finished feature we settle what we want to focus on next. 
 
-Especially the point of <b>understanding a task</b> is super important. Very often team members shy away from getting clarification on something they do not fully understand in an assigned task to prevent looking "dumb" or "weak".
+And discuss any issues we have, both in code and in understanding (!) of tasks. Usually in a team we get fresh ideas on solving issues we would not have come up with alone.
 
-Same for a bug we already tried to solve since days, without any progress and we just hate us and the world. But in the meeting we just tell "Everything runs fine" and we don't need help.
+Especially the point of <b>understanding a task</b> is super important. 
 
-That "false pride" - in both cases - will sure-fire shoot you in the foot at some point of the project.
+Very often team members shy away from getting clarification on something they do not fully understand in an assigned task to prevent looking "dumb" or "weak".
+
+Same for a bug we already tried to solve since days. Without any progress. And we just hate us and the world. But in the meeting we just tell "Everything runs fine". And noooo, we don't need help.
+
+That <b>false pride</b> will sure-fire shoot you in the foot at some point of the project.
 
 I love to torture people with clarification questions on given tasks, in order to get the best common understanding possible. Because I know from so many team projects, how much this is necessary. 
 
 Most of the time we do not need to discuss the nitty gritty implementation details on code level). But on high level it should be clear how things in the app should behave, especially from a user perspective. If we understand the user perspective it will also help a lot when coding the feature.
 
-Additional to the Daily Progress Meeting you could arrange another daily or bi-weekly "merge meeting" where we merge out feature branches together and also solve all the appearing conflicts together.
+Additional to the Daily Progress Meeting you could arrange another daily or bi-weekly <b>merge meeting</b>. 
+
+Here we merge our finished feature branches and also solve all the appearing conflicts together.
 
 Dealing with code merge conflicts can be a very <b>intimidating</b> task and usually also needs some <b>clarification</b> between at least two members in the team on how to deal with the conflicting code parts. 
 
@@ -169,15 +175,19 @@ There are first of all these general approaches:
 - Using a <b>Component library</b> for ready to use "plug & play" components with a base style: Like Material-UI, Reactstrap or React-Bootstrap
 - Using a library that allows us to directly write SCSS in components. Styled Components: https://styled-components.com/docs/basics
 
-Picking one approach that fits all opinions & wishes is very hard to achieve, especially if we do not know these four approaches too well + usually team members defend their favorite library "religiously" :)
+Picking one approach that fits all opinions & wishes is very hard to achieve, especially if we do not know these four approaches too well. 
+
+Also  team members usudally defend their favorite library "religiously" :)
 
 Ideally explore all options on one day together in the team: e.g. raw SCSS, SCSS in components using Styled Components and one component library like Material-UI.
 
-Afterwards it will be much easier to make a decision in the team. We will likely have to live with this decision for the whole team project, so do not rush the decision and rather experiment one day more :)
+Afterwards it will be much easier to make a decision in the team. 
+
+We will likely have to live with this decision for the whole team project, so do not rush the decision and rather experiment one day more :)
 
 #### Code Formatting & Linting
 
-In order to prepare for a TEAM project it is absolutely essential to have at least a basic understanding of the concepts of code formatting & linting.
+In order to prepare for a Team project it is absolutely essential to have at least a basic understanding of the concepts of code formatting & linting.
 
 Configure it just ONCE at the beginning of your project... and then forget about it and code happily ;)
 
@@ -191,27 +201,29 @@ Setup and enjoy Team Development without worrying all the time about your next G
 
 https://github.com/losrobbos/github-flow-guide
 
-#### Git Commits & Aliase
+#### Git Commits & Aliases
 
-Wie schreibe ich Commit Messages in einem echten Company-Projekt? 
+How to formulate a Commit Message in a real company project?
 
-Ein üblicher Standard ist die <b>Semantic Commit Message</b>
+Are there any rules or conventions?
 
-Semantic Commit Message Beispiele (fix, feat, docs, chore, etc...):
+A common stanard is the <b>Semantic Commit Message</b>
+
+Semantic Commit Message Examples (fix, feat, docs, chore, etc...):
 https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716 
 
-Beispiel Semantic Commit Messages im VueJS Projekt:
+Example Semantic Commit Messages in the VueJS Project:
 https://github.com/vuejs/vue/commits/dev
 
-Die 3 Wege, einen Commit mit Message zu schreiben:
-- `git commit` (öffnet Editor)
-- `git commit -m "Subject Message"` (nur Subject / Oneliner)
-- `git commit -m "Subject Message" -m "Body Message` (Subject und Body -> optionale Description)
+The 3 ways how to create a commit with a message:
+- `git commit` (opens text editor to write message)
+- `git commit -m "Subject Message"` (Subject only / Oneliner)
+- `git commit -m "Subject Message" -m "Body Message` (Subject and Body -> optional description)
 
 Git Log
-- alle Commits nur mit Message ohne Details anzeigen: `git log --oneline`
+- show all commits just with message, without any details: `git log --oneline`
 
-Git Aliases setzen (für Git Commands, die man sehr häufig wiederholt):
+How to set Git Aliases (for Git commands we use frequently ):
 https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
 
 
@@ -233,7 +245,7 @@ Material UI components also often bring some JavaScript logic out of the box, e.
 The Material UI package uses the famous "Material Design". 
 
 The package was specifically developed for React.
-
+     
 Learning Material UI:
 
 - Playlist: https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
