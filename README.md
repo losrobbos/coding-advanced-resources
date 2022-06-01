@@ -5,8 +5,8 @@ Please find here some of my recommended resources for continuing your coding jou
 Following are some fields where you could go next (In case you do not have other plans already ;)):
 
 - React & React TypeScript
-- [Team Development process](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#team-development)
 - [Backend Development](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#backend-topics)
+- [Team Development process](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#team-development)
 - Fullstack concepts (e.g. file upload)
 - Smartphone development with React Native
 - Fullstack development with NextJS
@@ -56,7 +56,152 @@ These are the most essential JS concepts in order to start with Framework Develo
 - Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
 - Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
 
-### Team Development
+
+### Material UI
+
+You have a project where you actually do not really care about an "original design"?
+
+The use case is simply "clean & functional"?
+
+Or you simply don't like spending to much time on styling at all?
+
+Then give the "Material UI" package a shot.
+
+With Material UI you can get - similar to Bootstrap - UI components out of the box, by simply "copy & paste & adapt". 
+
+Material UI components also often bring some JavaScript logic out of the box, e.g. for picking a date from a calendar.
+
+The Material UI package uses the famous "Material Design". 
+
+The package was specifically developed for React.
+     
+Learning Material UI:
+
+- Playlist: https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
+
+
+### React with TypeScript
+
+In a project React is very often used in combination with TypeScript instead of classical JavaScript.
+
+Without getting into all the details, Typescript makes your code (much!) more robust by adding so called TYPES to your JavaScript code.
+
+At the end of the day you can see your application as a big chain of calling functions, passing data around, changing data, returning data, displaying data. That is actually all there is.
+
+So what do you guess is the most common ISSUE in our functions then?
+
+In the IT world there is a famous meme called "SHIT IN -> SHIT OUT". 
+
+Meaning: Incorrect INPUT data passed to a function will return incorrect OUTPUT. It is that simple.
+
+TYPES will assure that you call your functions with CORRECT INPUT PARAMETERS throughout your code and also makes sure functions always RETURN the correct, expected OUTPUT DATA format.
+
+By this simple "hardening" of your functions, probably 80% of issues in your application code can already be eliminated. Sometimes more, sometimes less. But definitely: It will impact the stability of your code massively.
+
+Of course, sometimes also our functions PROCESS the data incorrectly, because we used wrong logic. This is something TypeScript cannot solve. At the end of the day, also SOME debugging fun must be left for us ;)
+
+
+- TypeScript Intro - PlayList: https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PLzAGFfNxKFuZgoZJPAfW_DeA2guNk849V
+
+- React with TypeScript - Playlist: https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
+
+
+
+### Backend Topics
+
+Before getting into backend development, it makes sense to WORK with backends from a frontend first in order to practice backend REQUESTS and how to process RESPONSES.
+
+Understanding the request / response cycle for frontend / backend interaction and how to process the data in the frontend is critical and a good starting point for thinking and designing a backend.
+
+Find here my API connect guide showing how you can:
+- connect to an API using a tool (=REST Client)
+- connect from JavaScript
+
+API Connect Guide: https://github.com/losrobbos/api-connect-guide
+
+For training these two resources are great:
+- JSONPlacerholder API: Pick one of the listed APIs and make calls to it: https://jsonplaceholder.typicode.com/, e.g. https://jsonplaceholder.typicode.com/todos 
+- JSON Server: Setup your OWN API on your PC with zero (!) code: https://github.com/typicode/json-server
+
+Dealing with existing APIs will give you a good understanding of what the USE CASES of APIs are and how to deal with API resources before actually starting your dev journey. 
+
+Enjoy!
+
+#### Backend Development with JavaScript 
+
+JavaScript / TypeScript can be used to code backends too.
+
+In case you are not sure so far, if you wanna specialize on frontend or backend development in your career, 
+it would make sense to learn backend coding with JAVASCRIPT first. That will be a lot easier compared to learning a brand new language. 
+
+And you will learn all important backend concepts this way and will be able to also code backends in other languages at some point.
+
+For the database MongoDB is naturally fitting for JavaScript, because in MongoDB you basically read & write JavaScript data. It will be very familiar.
+
+Once you wanna FOCUS on backend development, so you wanna become a specialized backend developer, you will have to learn at least one further language. And additionally at least one SQL database (it doesn't matter much which one, but PostgreSQL or MySQL are natural first choices).
+
+Most used languages for backend development:
+- Java
+- PHP
+- C#
+- Python
+- Go
+
+Common databases:
+- PostgreSQL
+- MySQL
+
+But the language, like usual, is not enough. Together with the language you need to learn a backend framework.
+
+Popular Frameworks:
+- Java => Spring
+- PHP => Laravel, Symfony
+- C# => .NET
+- Python => Django / Flask
+
+Caching & Messaging:
+- Redis
+
+
+#### The two main API patterns
+
+There are two main approaches how you can build a DATA SERVER (=API) for your frontend.
+
+You can either build a <b>REST</b> or <b>GraphQL</b> API. 
+
+Both of these API patterns do the same thing at the end. But their setup & architecture is pretty different.
+
+The difference explained + demo of both: https://www.youtube.com/watch?v=PeAOEAmR0D0
+
+GraphQL solves one fundamental problem of REST though. It ships with a tool which will document the API out of the box. So it makes it way easier for frontend developers to checkout how to retrieve data from the API in the format they need and EXPLORE with requests online easily, before they do the same in code.
+
+Building a REST Api with JS Step by Step (the series is a bit dated in the used syntax, but the concepts are still valid & explained very well):
+https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
+
+- Example REST API snippets for getting started:
+https://github.com/losrobbos/express-snippets
+
+Building a GraphQL API Step by Step (PLayList): 
+https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
+
+- Example GraphQL project developed in branches step by step: 
+https://github.com/losrobbos/graphql-server-in-steps
+
+## Deployment
+
+Deployment simply means: Bring your app online :)
+
+There are a lot of free providers for deploying your frontend & backend apps.
+
+For frontends e.g. you can use Vercel, which works extremely well for REACT deployments.
+
+For backend deployment Heroku is still one of the most solid options (even though you can also deploy simple backends using Vercel too!)
+
+- Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
+- Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
+
+
+## Team Development
 
 Most projects these days get developed in TEAMS.
 
@@ -225,152 +370,6 @@ Git Log
 
 How to set Git Aliases (for Git commands we use frequently ):
 https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
-
-
-
-### Material UI
-
-You have a project where you actually do not really care about an "original design"?
-
-The use case is simply "clean & functional"?
-
-Or you simply don't like spending to much time on styling at all?
-
-Then give the "Material UI" package a shot.
-
-With Material UI you can get - similar to Bootstrap - UI components out of the box, by simply "copy & paste & adapt". 
-
-Material UI components also often bring some JavaScript logic out of the box, e.g. for picking a date from a calendar.
-
-The Material UI package uses the famous "Material Design". 
-
-The package was specifically developed for React.
-     
-Learning Material UI:
-
-- Playlist: https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO
-
-
-### React with TypeScript
-
-In a project React is very often used in combination with TypeScript instead of classical JavaScript.
-
-Without getting into all the details, Typescript makes your code (much!) more robust by adding so called TYPES to your JavaScript code.
-
-At the end of the day you can see your application as a big chain of calling functions, passing data around, changing data, returning data, displaying data. That is actually all there is.
-
-So what do you guess is the most common ISSUE in our functions then?
-
-In the IT world there is a famous meme called "SHIT IN -> SHIT OUT". 
-
-Meaning: Incorrect INPUT data passed to a function will return incorrect OUTPUT. It is that simple.
-
-TYPES will assure that you call your functions with CORRECT INPUT PARAMETERS throughout your code and also makes sure functions always RETURN the correct, expected OUTPUT DATA format.
-
-By this simple "hardening" of your functions, probably 80% of issues in your application code can already be eliminated. Sometimes more, sometimes less. But definitely: It will impact the stability of your code massively.
-
-Of course, sometimes also our functions PROCESS the data incorrectly, because we used wrong logic. This is something TypeScript cannot solve. At the end of the day, also SOME debugging fun must be left for us ;)
-
-
-- TypeScript Intro - PlayList: https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PLzAGFfNxKFuZgoZJPAfW_DeA2guNk849V
-
-- React with TypeScript - Playlist: https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
-
-
-
-### Backend Topics
-
-Before getting into backend development, it makes sense to WORK with backends from a frontend first in order to practice backend REQUESTS and how to process RESPONSES.
-
-Understanding the request / response cycle for frontend / backend interaction and how to process the data in the frontend is critical and a good starting point for thinking and designing a backend.
-
-Find here my API connect guide showing how you can:
-- connect to an API using a tool (=REST Client)
-- connect from JavaScript
-
-API Connect Guide: https://github.com/losrobbos/api-connect-guide
-
-For training these two resources are great:
-- JSONPlacerholder API: Pick one of the listed APIs and make calls to it: https://jsonplaceholder.typicode.com/, e.g. https://jsonplaceholder.typicode.com/todos 
-- JSON Server: Setup your OWN API on your PC with zero (!) code: https://github.com/typicode/json-server
-
-Dealing with existing APIs will give you a good understanding of what the USE CASES of APIs are and how to deal with API resources before actually starting your dev journey. 
-
-Enjoy!
-
-#### Backend Development with JavaScript 
-
-JavaScript / TypeScript can be used to code backends too.
-
-In case you are not sure so far, if you wanna specialize on frontend or backend development in your career, 
-it would make sense to learn backend coding with JAVASCRIPT first. That will be a lot easier compared to learning a brand new language. 
-
-And you will learn all important backend concepts this way and will be able to also code backends in other languages at some point.
-
-For the database MongoDB is naturally fitting for JavaScript, because in MongoDB you basically read & write JavaScript data. It will be very familiar.
-
-Once you wanna FOCUS on backend development, so you wanna become a specialized backend developer, you will have to learn at least one further language. And additionally at least one SQL database (it doesn't matter much which one, but PostgreSQL or MySQL are natural first choices).
-
-Most used languages for backend development:
-- Java
-- PHP
-- C#
-- Python
-- Go
-
-Common databases:
-- PostgreSQL
-- MySQL
-
-But the language, like usual, is not enough. Together with the language you need to learn a backend framework.
-
-Popular Frameworks:
-- Java => Spring
-- PHP => Laravel, Symfony
-- C# => .NET
-- Python => Django / Flask
-
-Caching & Messaging:
-- Redis
-
-
-#### The two main API patterns
-
-There are two main approaches how you can build a DATA SERVER (=API) for your frontend.
-
-You can either build a <b>REST</b> or <b>GraphQL</b> API. 
-
-Both of these API patterns do the same thing at the end. But their setup & architecture is pretty different.
-
-The difference explained + demo of both: https://www.youtube.com/watch?v=PeAOEAmR0D0
-
-GraphQL solves one fundamental problem of REST though. It ships with a tool which will document the API out of the box. So it makes it way easier for frontend developers to checkout how to retrieve data from the API in the format they need and EXPLORE with requests online easily, before they do the same in code.
-
-Building a REST Api with JS Step by Step (the series is a bit dated in the used syntax, but the concepts are still valid & explained very well):
-https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
-
-- Example REST API snippets for getting started:
-https://github.com/losrobbos/express-snippets
-
-Building a GraphQL API Step by Step (PLayList): 
-https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
-
-- Example GraphQL project developed in branches step by step: 
-https://github.com/losrobbos/graphql-server-in-steps
-
-## Deployment
-
-Deployment simply means: Bring your app online :)
-
-There are a lot of free providers for deploying your frontend & backend apps.
-
-For frontends e.g. you can use Vercel, which works extremely well for REACT deployments.
-
-For backend deployment Heroku is still one of the most solid options (even though you can also deploy simple backends using Vercel too!)
-
-- Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
-- Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
-
 
 
 ## Advanced
