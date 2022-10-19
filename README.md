@@ -187,6 +187,13 @@ https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1
 - Example GraphQL project developed in branches step by step: 
 https://github.com/losrobbos/graphql-server-in-steps
 
+#### Databases
+
+Databases - Getting started: https://github.com/losrobbos/databases-getting-started
+
+Data Modeling: https://github.com/losrobbos/data-modeling-guide
+
+
 ## Deployment
 
 Deployment simply means: Bring your app online :)
@@ -376,17 +383,10 @@ https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
 
 ### Fullstack Guides (Frontend, Backend )
 
-Databases - Getting started: https://github.com/losrobbos/databases-getting-started
-
-Data Modeling samples: https://github.com/losrobbos/data-modeling-guide
-
 Mongoose - Working with nested arrays and objects: 
 https://www.google.com/amp/s/attacomsian.com/blog/mongoose-subdocuments%3famp
 
 API Prototyping: https://github.com/losrobbos/api-prototyping
-
-Glossary (DCI): https://github.com/losrobbos/glossary
-
 
 ### File Uploads
 
