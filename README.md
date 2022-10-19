@@ -380,6 +380,9 @@ Databases - Getting started: https://github.com/losrobbos/databases-getting-star
 
 Data Modeling samples: https://github.com/losrobbos/data-modeling-guide
 
+Mongoose - Working with nested arrays and objects: 
+https://www.google.com/amp/s/attacomsian.com/blog/mongoose-subdocuments%3famp
+
 API Prototyping: https://github.com/losrobbos/api-prototyping
 
 Glossary (DCI): https://github.com/losrobbos/glossary
