@@ -28,10 +28,10 @@ This guide will get updated from time to time with new resources.
 
 These are the most essential JS concepts in order to start with Framework Development (e.g. React or Express)
 
+- Functions (Arrow Functions, Parameters, Return, Callbacks)
 - Array Methods: map, filter, find, reduce
 - Spread Operator ( the three Dots: ... )
 - Destructuring (to extract data from objects & arrays into new variables)
-- Functions (Arrow Functions, Parameters, Return, Callbacks)
 - Event Listener ("click", "change")
 - Event object (=> e.g. event.target to grab a clicked item)
 - Promises (to "call" remote appliations, e.g. an API or a database)
