@@ -559,10 +559,10 @@ For that part we need to know about <b>ALGORITHMS</b>.
 #### Coding Challenges online
 
 - Exercism: https://exercism.org/tracks/javascript/exercises
-- Leetcode: https://leetcode.com
+- Edabit: https://edabit.com/challenges/javascript (good for easy starter exercises, 15 challenges for free per account)
 - Codewars: https://www.codewars.com/join
-- Edabit: https://edabit.com/challenges/javascript
 - Hackerrank: https://www.hackerrank.com/
+- Leetcode: https://leetcode.com
 
 #### Courses + Books
 
