@@ -13,6 +13,7 @@ Following are some fields where you could go next (In case you do not have other
 - [Test Driven Development (TDD)](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#test-driven-development)
 - [Design Patterns](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#design-patterns)
 - [Algorithms & Data Structures](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#algorithms--data-structures)
+- [Coding Challenge Websites](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#coding-challenges-online)
 - [Game Development](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#game-development)
 - [Application Architecture](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#architecture)
 
