@@ -558,10 +558,10 @@ For that part we need to know about <b>ALGORITHMS</b>.
 
 #### Coding Challenges online
 
-- Exercism: https://exercism.org/tracks/javascript/exercises
 - Edabit: https://edabit.com/challenges/javascript (good for easy starter exercises, 15 challenges for free per account)
-- Codewars: https://www.codewars.com/join
-- Hackerrank: https://www.hackerrank.com/
+- Codewars: https://www.codewars.com/join (very good to continue for free after your Edabit challenges
+- Exercism: https://exercism.org/tracks/javascript/exercises
+- Hackerrank: https://www.hackerrank.com/ (here you get more business related coding challenges and also may get interviews)
 - Leetcode: https://leetcode.com
 
 #### Courses + Books
