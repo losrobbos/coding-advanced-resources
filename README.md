@@ -52,7 +52,7 @@ These are the most essential JS concepts in order to start with Framework Develo
 - Mini Blog with Details Page & Comments (2 Pages App): https://blog-fullstack-client.vercel.app/
 - Location on a Map with OpenstreetMap & Leaflet: https://github.com/losrobbos/react-openstreetmap-demo
 - Apartment Filtering by multiple criteria: https://booking-filter.vercel.app/
-- Movies List with login & user specific contents (using local storage to store users & books - no backend): https://typescript-movies-demo.vercel.app/ (multiuser app)
+- Movies List with login & user specific contents (multiuser app): https://typescript-movies-demo.vercel.app/ 
 - Chat App (duplicate the browser tab to chat): https://rob-chat-sse.vercel.app/
 - Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
 - Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
@@ -193,6 +193,14 @@ https://github.com/losrobbos/graphql-server-in-steps
 Databases - Getting started: https://github.com/losrobbos/databases-getting-started
 
 Data Modeling: https://github.com/losrobbos/data-modeling-guide
+
+#### Futher topics
+
+Prepare your frontend to integrate with an API. With API Prototyping: https://github.com/losrobbos/api-prototyping
+
+Mongoose - Working with nested arrays and objects: 
+https://www.google.com/amp/s/attacomsian.com/blog/mongoose-subdocuments%3famp
+
 
 
 ## Deployment
@@ -381,13 +389,6 @@ https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
 
 
 ## Advanced
-
-### Fullstack Guides (Frontend, Backend )
-
-Mongoose - Working with nested arrays and objects: 
-https://www.google.com/amp/s/attacomsian.com/blog/mongoose-subdocuments%3famp
-
-API Prototyping: https://github.com/losrobbos/api-prototyping
 
 ### File Uploads
 
