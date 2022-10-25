@@ -35,7 +35,7 @@ These are the most essential JS concepts in order to start with Framework Develo
 - Destructuring (to extract data from objects & arrays into new variables)
 - Event Listener ("click", "change")
 - Event object (=> e.g. event.target to grab a clicked item)
-- Promises (to "call" remote appliations, e.g. an API or a database)
+- Promises (to "call" remote applications, e.g. an API or a database)
 - Fetch
 
 ## React
