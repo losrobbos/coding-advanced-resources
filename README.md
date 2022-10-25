@@ -697,7 +697,7 @@ There is one philosophy that goes a little bit beyond that "object oriented vs f
 
 There is a famous design technique - that has shaped a lot of code terminology in the whole IT industry - called <b>Domain Driven Design</b> (DDD).
 
-It is not just a technique, but also kind of an "attitude" on how to approach code design by trying to align the whole team processes, architecture and code to our real life problem as closely as possible.
+It is not just a technique, but also kind of an "attitude" on how to approach code design by trying to align the whole team processes, spoken language (!), architecture and code to our real life problem as closely as possible.
 
 Domain Driven Design - From real life problems to Code (Book): https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?keywords=domain+driven+design&qid=1650536079&sprefix=domain+driven%2Caps%2C143&sr=8-1 
 
