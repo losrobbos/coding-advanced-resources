@@ -633,7 +633,9 @@ So let's start with the problem.
 
 We all know - You often need to COMBINE functions and classes in a way to create an application that solves problems of a user.
 
-Writing code that realizes some feature is just ONE part of the game. But often it is not straight forward, how to ARRANGE classes and functions to work together.
+Writing code that realizes some feature is ONE part of the game. 
+
+But often it is not straight forward, how to ARRANGE classes and functions to work together properly.
 
 And even if we get our feature "somehow" working: That does not mean we are done with it forever.
 
