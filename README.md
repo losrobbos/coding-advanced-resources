@@ -737,9 +737,9 @@ How do we make sure, our app does not turn into a gigantic ball of mudd, causing
 For this we need to think, apart from the code and its organisation, also about broader factors:
 
 - Which parts of our app are performance critical and maybe need more resources than others?
-- How do we decouple (=split) & integrate parts of our app, so they can be scaled indepenently?
+- How do we decouple (=split) & integrate parts of our app, so they can be scaled independently?
 - Which tech stack is best suited for our kind of user problems?
-- Which external services we need and how do we integrate them? Do we use Providers like AWS, Azure or Google Cloud for hosting & scaling our app?
+- Which external services we need and how do we integrate them? Do we use Providers like AWS, Azure or Google Cloud for hosting & scaling our app / parts of our app?
 
 All these are questions not primarily related to code. They are related to the overal plan, the overall ARCHITECTURE of our app.
 
