@@ -128,6 +128,19 @@ Dealing with existing APIs will give you a good understanding of what the USE CA
 
 Enjoy!
 
+#### Firebase
+
+Once you got the hang on working with an API, you might wanna setup and deploy your first own API.
+
+In order to get started or in case you do not really want to dive deep into backend development, you might want to take one step back and take a look on how to create an API in the cloud without any coding and have a quick storage for your user generated data.
+
+In that case, Firebase will likely be a very good fit to get started:
+https://www.youtube.com/watch?v=9zdvmgGsww0&list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb&index=2
+
+For little pet projects or Portfolio Projects Firebase should be more than enough to store and maintain your data!
+
+So in case you just wanna focus on Frontend Development, you could end your journey with "API development" here :) 
+
 #### Backend Development with JavaScript 
 
 JavaScript / TypeScript can be used to code backends too.
