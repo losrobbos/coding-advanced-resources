@@ -634,6 +634,14 @@ Examples Enable3D (with mouse movement you can change the view):
 
 My currently preferred engine is <b>BabylonJS</b>, due to the superb documentation & easy to follow guides.
 
+#### Gake Development with JavaScript (without game engine)
+
+In case you want to take your programming skills to a whole new level, try to get into game development with vanilla JS (without libraries) 
+
+Here is a very great video playlist of someone building a variety of Games (Mario, Pokemon, Fighting game, Space Shooters, etc) using JS only, explaining all relevant concepts step by step: 
+
+https://www.youtube.com/watch?v=eI9idPTT0c4&list=PLpPnRKq7eNW16Wq1GQjQjpTo_E0taH0La
+
 
 ### Design Patterns
 
