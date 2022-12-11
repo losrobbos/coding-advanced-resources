@@ -9,7 +9,7 @@ Following are some fields where you could go next (In case you do not have other
 - [Team Development process](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#team-development)
 - Fullstack concepts (e.g. file upload)
 - [Fullstack development with NextJS](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#nextjs)
-- [Smartphone development with React Native]()
+- [Smartphone development with React Native](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#react-native)
 - [Test Driven Development (TDD)](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#test-driven-development)
 - [Design Patterns](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#design-patterns)
 - [Algorithms & Data Structures](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#algorithms--data-structures)
