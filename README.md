@@ -738,7 +738,13 @@ At some point you might be ready.
 
 You coded all that little apps.
 
+You worked in teams on bigger apps.
+
 You mastered a lot of different code tasks in your life.
+
+You have built code, maintained code, fixed code, refactored code.
+
+You have seen already almost all bugs in your lifetime that you can think of. With your own code, other code, libraries and tools.
 
 Are you ready to go all-in now?
 
