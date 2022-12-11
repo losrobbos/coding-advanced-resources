@@ -9,7 +9,7 @@ Following are some fields where you could go next (In case you do not have other
 - [Team Development process](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#team-development)
 - Fullstack concepts (e.g. file upload)
 - [Fullstack development with NextJS](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#nextjs)
-- Smartphone development with React Native
+- [Smartphone development with React Native]()
 - [Test Driven Development (TDD)](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#test-driven-development)
 - [Design Patterns](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#design-patterns)
 - [Algorithms & Data Structures](https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md#algorithms--data-structures)
@@ -640,6 +640,8 @@ In case you want to take your programming skills to a whole new level, try to ge
 
 Here is a very great video playlist of someone building a variety of Games (Mario, Pokemon, Fighting game, Space Shooters, etc) using JS only, explaining all relevant concepts step by step: 
 
+Chris Courses PlayList:
+
 https://www.youtube.com/watch?v=eI9idPTT0c4&list=PLpPnRKq7eNW16Wq1GQjQjpTo_E0taH0La
 
 
@@ -694,7 +696,9 @@ So it makes sense to learn some OOP design patterns, even if you are mostly just
 
 #### OOP Design Patterns
 
-There is a very famous standard book for OOP design patterns by the "Gang of Four" (often called just GoF).
+There is a very famous standard book for OOP design patterns just called "Design Patterns" by the "Gang of Four" (often called just GoF):
+
+https://www.amazon.de/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8/ref=sr_1_2?keywords=gang+of+four+design+patterns&qid=1670749326&sprefix=gang+of+four+d%2Caps%2C108&sr=8-2
 
 Another famous series of patterns are the <b>SOLID</b> principles.
 
