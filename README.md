@@ -53,7 +53,6 @@ These are the most essential JS concepts in order to start with Framework Develo
 - Location on a Map with OpenstreetMap & Leaflet: https://github.com/losrobbos/react-openstreetmap-demo
 - Apartment Filtering by multiple criteria: https://booking-filter.vercel.app/
 - Movies List with login & user specific contents (multiuser app): https://typescript-movies-demo.vercel.app/ 
-- Chat App (duplicate the browser tab to chat): https://rob-chat-sse.vercel.app/
 - Tetris (React): https://tetris-clone.vercel.app/ (is also a great React State training!)
 - Minesweeper (React): https://minesweeper-nine.vercel.app/ (is a good training for algorithms + React State)
 
