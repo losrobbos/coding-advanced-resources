@@ -158,7 +158,7 @@ it would make sense to learn backend coding with JAVASCRIPT first. That will be 
 
 And you will learn all important backend concepts this way and will be able to also code backends in other languages at some point.
 
-For the database MongoDB is naturally fitting for JavaScript, because in MongoDB you basically read & write JavaScript data. It will be very familiar.
+For the database MongoDB is a natural fit for your JavaScript backend, because in MongoDB you basically read & write JavaScript data. It will be very familiar.
 
 Once you wanna FOCUS on backend development, so you wanna become a specialized backend developer, you will have to learn at least one further language. And additionally at least one SQL database (it doesn't matter much which one, but PostgreSQL or MySQL are natural first choices).
 
