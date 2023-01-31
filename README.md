@@ -142,9 +142,9 @@ So in case you just wanna focus on Frontend Development, you could end your jour
 
 #### MockApi.io
 
-In order to setup a API where you can train performing HTTP request using the "fetch" function in React, you can checkout MockApi: https://mockapi.io/docs
+In order to setup an API where you can train HTTP requests using the "fetch" function in your frontend, you can checkout MockApi: https://mockapi.io/docs
 
-Here you can setup one mini REST API with GET, POST, PUT, DELETE routes. 
+Here you can setup a mini REST API with GET, POST, PUT, DELETE routes. 
 
 This is great e.g. to provide an out of the box REST backend for your portfolio applications.
 
