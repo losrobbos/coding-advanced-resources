@@ -233,10 +233,10 @@ There are a lot of free providers for deploying your frontend & backend apps.
 
 For frontends e.g. you can use Vercel, which works extremely well for REACT deployments.
 
-For backend deployment Heroku is still one of the most solid options (even though you can also deploy simple backends using Vercel too!)
+For backend deployment render.com is one of the most solid options (even though you can also deploy simple backends using Vercel too!)
 
 - Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
-- Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
+- Render Deploy Guide (Backend / NodeJS): [https://github.com/losrobbos/heroku-node-deploy-guide](https://render.com/docs/deploy-node-express-app)
 
 
 ## Team Development
