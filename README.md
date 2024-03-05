@@ -583,6 +583,7 @@ For that part we need to know about <b>ALGORITHMS</b>.
 #### Coding Challenges online
 
 - Edabit: https://edabit.com/challenges/javascript (good for easy starter exercises, 15 challenges for free per account)
+- JSHero (german): https://www.jshero.net/home.html (very easy and straight forward, starting from absolute zero!)
 - Codewars: https://www.codewars.com/join (very good to continue for free after your Edabit challenges)
 - Exercism: https://exercism.org/tracks/javascript/exercises
 - Hackerrank: https://www.hackerrank.com/ (here you get more business related coding challenges and also may get interviews)
